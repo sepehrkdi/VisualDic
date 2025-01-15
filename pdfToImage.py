@@ -1,5 +1,6 @@
 import fitz  # PyMuPDF
 import os
+import argparse
 
 def pdf_to_jpg_without_poppler(pdf_path, output_folder, dpi=300):
     # Open the PDF
@@ -16,12 +17,15 @@ def pdf_to_jpg_without_poppler(pdf_path, output_folder, dpi=300):
         print(f"Saved: {output_path}")
     pdf_document.close()
 
-# Example usage
-pdf_path = "italian_english_bilingual_visual_dic.pdf"  # Replace with your PDF file path
-output_folder = "output_images"    # Replace with desired output folder
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Convert a PDF to JPG images.")
+    parser.add_argument("pdf_path", type=str, help="Path to the input PDF file.")
+    parser.add_argument("output_folder", type=str, help="Path to the output folder.")
+    parser.add_argument("--dpi", type=int, default=300, help="DPI for the output images (default: 300).")
+    args = parser.parse_args()
 
-# Create the output folder if it doesn't exist
-os.makedirs(output_folder, exist_ok=True)
+    # Create the output folder if it doesn't exist
+    os.makedirs(args.output_folder, exist_ok=True)
 
-# Convert PDF to JPG
-pdf_to_jpg_without_poppler(pdf_path, output_folder)
+    # Convert PDF to JPG
+    pdf_to_jpg_without_poppler(args.pdf_path, args.output_folder, args.dpi)

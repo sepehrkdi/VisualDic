@@ -1,7 +1,7 @@
 import requests
 import json
 from tqdm import tqdm
-import json
+import sys
 
 # Function to query Ollama API
 def query_ollama(word):
@@ -15,6 +15,8 @@ def query_ollama(word):
     headers = config["headers"]
     payload = config["payload_defaults"]
 
+    # Add the prompt to the payload
+    payload["prompt"] = prompt
 
     try:
         # Stream response
@@ -38,32 +40,40 @@ def query_ollama(word):
         print(f"HTTP error querying Ollama for '{word}': {e}")
     return None
 
-# Read the words file
-words_file = "sorted_words.txt"
-output_file = "word_descriptions.txt"
+# Main function
+def main():
+    if len(sys.argv) < 3:
+        print("Usage: python script.py <words_file> <output_file>")
+        sys.exit(1)
 
-descriptions = []
-try:
-    with open(words_file, "r", encoding="utf-8") as file:
-        lines = file.readlines()
-        
-        # Use tqdm to wrap the loop
-        for line in tqdm(lines, desc="Processing words"):
-            word, page_number = line.rsplit(":", 1)  # Split into word and page number
-            word = word.strip()
-            page_number = page_number.strip()
-            description = query_ollama(word)
-            if description:
-                # Format: word: description: page_number
-                descriptions.append(f"{word} @@@ {description} @@@ {page_number}")
+    words_file = sys.argv[1]
+    output_file = sys.argv[2]
 
-    # Write the descriptions to a file
-    with open(output_file, "w", encoding="utf-8") as out_file:
-        for desc in descriptions:
-            out_file.write(desc + "\n")
+    result = []
+    try:
+        with open(words_file, "r", encoding="utf-8") as file:
+            lines = file.readlines()
 
-    print(f"Descriptions saved to {output_file}.")
-except FileNotFoundError:
-    print(f"File '{words_file}' not found.")
-except Exception as e:
-    print(f"An error occurred: {e}")
+            # Use tqdm to wrap the loop
+            for line in tqdm(lines, desc="Processing words"):
+                word, page_number = line.rsplit(":", 1)  # Split into word and page number
+                word = word.strip()
+                page_number = page_number.strip()
+                description = query_ollama(word)
+                if description:
+                    # Format: word: description: page_number
+                    result.append(f"{word} @@@ {description} @@@ {page_number}")
+
+        # Write the result to a file
+        with open(output_file, "w", encoding="utf-8") as out_file:
+            for desc in result:
+                out_file.write(desc + "\n")
+
+        print(f"Result saved to {output_file}.")
+    except FileNotFoundError:
+        print(f"File '{words_file}' not found.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    main()

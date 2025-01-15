@@ -1,0 +1,5102 @@
+acqua di colonia: 4
+addome: 12
+anca: 12
+avambraccio: 12
+capezzolo: 12
+collo: 12
+corpo: 12
+coscia: 12
+donna: 12
+gamba: 12
+genitali: 12
+ginocchio: 12
+inguine: 12
+ombelico: 12
+persone: 12
+piede: 12
+seno: 12
+stinco: 12
+testa: 12
+torace: 12
+uomo: 12
+vita: 12
+ascella: 13
+braccio: 13
+caviglia: 13
+gomito: 13
+mano: 13
+natica: 13
+nuca: 13
+polpaccio: 13
+polso: 13
+reni: 13
+schiena: 13
+spalla: 13
+tallone: 13
+acqua dal rubinetto: 14
+bocca: 14
+caffè filtrato: 14
+caffè freddo: 14
+caffè macchiato: 14
+capelli: 14
+ciglio: 14
+faccia: 14
+fronte: 14
+guancia: 14
+labbro: 14
+mandibola: 14
+mento: 14
+narice: 14
+naso: 14
+neo: 14
+occhio: 14
+orecchio: 14
+pelle: 14
+sopracciglio: 14
+tempia: 14
+alluce: 15
+anulare: 15
+arco plantare: 15
+avampiede: 15
+collo del piede: 15
+cuticola: 15
+dito del piede: 15
+dorso del piede: 15
+fossetta: 15
+indice: 15
+lentiggine: 15
+medio: 15
+mignolo: 15
+mignolo del piede: 15
+nocca: 15
+palmo: 15
+pianta del piede: 15
+pollice: 15
+poro: 15
+pugno: 15
+ruga: 15
+unghia: 15
+unghia del piede: 15
+addominali: 16
+bicipite: 16
+borsa di studio: 16
+deltoide: 16
+frontale: 16
+gluteo: 16
+gran dorsale: 16
+intercostale: 16
+muscoli: 16
+pettorale: 16
+quadricipite: 16
+tendine: 16
+tendine di Achille: 16
+trapezio: 16
+tricipite: 16
+articolazione: 17
+bacino: 17
+cartilagine: 17
+cassa toracica: 17
+clavicola: 17
+coccige: 17
+costola: 17
+cranio: 17
+femore: 17
+legamento: 17
+metacarpo: 17
+metatarso: 17
+omero: 17
+osso: 17
+perone: 17
+radio: 17
+rotula: 17
+scapola: 17
+scheletro: 17
+spina dorsale: 17
+sterno: 17
+tibia: 17
+ulna: 17
+vertebre cervicali: 17
+vertebre lombari: 17
+vertebre toraciche: 17
+appendice: 18
+cuore: 18
+duodeno: 18
+fegato: 18
+intestino crasso: 18
+intestino tenue: 18
+milza: 18
+pancreas: 18
+polmone: 18
+rene: 18
+stomaco: 18
+tiroide: 18
+trachea: 18
+arteria: 19
+borsa: 19
+cardiovascolare: 19
+cervello: 19
+corde vocali: 19
+diaframma: 19
+digerente: 19
+endocrino: 19
+epiglottide: 19
+esofago: 19
+faringe: 19
+ghiandola: 19
+gola: 19
+laringe: 19
+linfatico: 19
+lingua: 19
+nervo: 19
+nervoso: 19
+palato: 19
+pomo di Adamo: 19
+respiratorio: 19
+riproduttivo: 19
+sistemi organici: 19
+urinario: 19
+vena: 19
+clitoride: 20
+coito: 20
+collo dell’utero: 20
+concepire: 20
+fecondazione: 20
+femminili: 20
+follicolo: 20
+impotente: 20
+labbra: 20
+trasmessa: 20
+mestruazione: 20
+organi riproduttivi: 20
+ormone: 20
+ovaio: 20
+ovulazione: 20
+ovulo: 20
+riproduzione: 20
+sperma: 20
+sterile: 20
+tuba di Fallopio: 20
+uretra: 20
+utero: 20
+vagina: 20
+vescica: 20
+contraccezione: 21
+dotto deferente: 21
+dotto eiaculatore: 21
+maschili: 21
+pene: 21
+pillola: 21
+prepuzio: 21
+preservativo: 21
+prostata: 21
+retto: 21
+scroto: 21
+testicolo: 21
+uretere: 21
+vescicola seminale: 21
+campo sinistro: 22
+cugino: 22
+famiglia: 22
+figlia: 22
+figlio: 22
+fratello: 22
+genero: 22
+madre: 22
+marito: 22
+moglie: 22
+nipote /: 22
+nonna: 22
+nonno: 22
+nuora: 22
+padre: 22
+sorella: 22
+zia: 22
+zio: 22
+adolescente: 23
+adulto: 23
+appellativi: 23
+bambini: 23
+bambino: 23
+bimbo: 23
+cognata: 23
+cognato: 23
+compagno/-a /: 23
+fasi: 23
+figliastra: 23
+figliastro: 23
+gemelli: 23
+generazione: 23
+genitori: 23
+matrigna: 23
+nonni: 23
+parenti: 23
+patrigno: 23
+ragazza: 23
+ragazzo: 23
+Signora: 23
+Signore: 23
+Signorina: 23
+suocera: 23
+suocero: 23
+amico: 24
+di penna: 24
+assistente /: 24
+capo: 24
+collega /: 24
+conoscente: 24
+coppia: 24
+datore di lavoro: 24
+dipendente: 24
+fidanzata: 24
+fidanzati: 24
+fidanzato: 24
+partner di affari /: 24
+rapporti: 24
+ufficio: 24
+vicino: 24
+aggrottare le ciglia: 25
+annoiato: 25
+arrabbiato: 25
+confuso: 25
+eccitato: 25
+emozioni: 25
+felice: 25
+fiducioso: 25
+fiero: 25
+gridare: 25
+imbarazzato: 25
+piangere: 25
+preoccupato: 25
+ridere: 25
+sbadigliare: 25
+scioccato: 25
+sorpreso: 25
+sorriso: 25
+sospirare: 25
+spaventato: 25
+svenire: 25
+timido: 25
+triste: 25
+turbato: 25
+andare in pensione: 26
+anniversario: 26
+avere un bambino: 26
+bar mitzvah: 26
+battesimo: 26
+borsa da spiaggia: 26
+divorzio: 26
+emigrare: 26
+fare amicizia: 26
+fare testamento: 26
+funerale: 26
+iniziare la scuola: 26
+innamorarsi: 26
+laurearsi: 26
+matrimonio: 26
+morire: 26
+nascere: 26
+Ramadan: 26
+sposarsi: 26
+trovare un lavoro: 26
+viaggio di nozze: 26
+biglietto d’auguri: 27
+Capodanno: 27
+carnevale: 27
+celebrazioni: 27
+compleanno: 27
+Divali: 27
+di compleanno: 27
+Festa di Halloween: 27
+feste: 27
+Ringraziamento: 27
+nastro: 27
+Natale: 27
+Pasqua: 27
+ebraica: 27
+processione: 27
+regalo: 27
+abiti per il bambino: 30
+agosto: 30
+aspetto: 30
+bambino piccolo: 30
+bavaglino: 30
+cappello per il sole: 30
+gonna: 30
+grembiulino: 30
+guanti: 30
+maglietta: 30
+mutande di plastica: 30
+pagliacetto: 30
+pantaloncini: 30
+pigiamino: 30
+salopette: 30
+scarpette: 30
+tutina: 30
+tutina da neve: 30
+autunno: 31
+camicia da notte: 31
+cappuccio: 31
+distintivo: 31
+eskimo: 31
+estate: 31
+fibra naturale: 31
+galosce: 31
+impermeabile: 31
+inverno: 31
+jeans: 31
+montgomery: 31
+olivetta: 31
+pantacollant: 31
+pantofole: 31
+sandali: 31
+sciarpa: 31
+sintetico: 31
+tenuta da calcio: 31
+tuta: 31
+vestaglia: 31
+vestito: 31
+zaino: 31
+abito: 32
+asola: 32
+biancheria intima: 32
+bottone: 32
+cappotto: 32
+cintura: 32
+colletto: 32
+corto: 32
+cravatta: 32
+fodera: 32
+giacca: 32
+golf: 32
+lungo: 32
+pantaloni: 32
+polsino: 32
+risvolto: 32
+scarpa di cuoio: 32
+tasca: 32
+tuta da sport: 32
+blazer: 33
+boxer: 33
+calzini: 33
+calzoncini: 33
+camicia: 33
+canottiera: 33
+casual: 33
+collo a V: 33
+felpa: 33
+giaccone: 33
+gilet: 33
+girocollo: 33
+giubbotto da sport: 33
+maglione: 33
+pigiama: 33
+slip: 33
+abito da sera: 34
+al ginocchio: 34
+alla caviglia: 34
+camicetta: 34
+cucitura: 34
+elegante: 34
+manica: 34
+minigonna: 34
+orlo: 34
+scarpe: 34
+senza maniche: 34
+senza spalline: 34
+abito da sposa: 35
+attillato: 35
+biancheria termica: 35
+bouquet: 35
+calza: 35
+collant: 35
+con armatura: 35
+corpetto: 35
+corsetto: 35
+giarrettiera: 35
+girovita: 35
+guêpière: 35
+mutandine: 35
+pizzo: 35
+reggicalze: 35
+reggiseno: 35
+sottoveste: 35
+spallina: 35
+strascico: 35
+velo: 35
+accessori: 36
+anello: 36
+berretto: 36
+bracciale: 36
+cappello: 36
+catena: 36
+collana: 36
+farfalla: 36
+fazzoletto: 36
+fermacravatta: 36
+fermaglio: 36
+fibbia: 36
+filo di perle: 36
+foulard: 36
+gemello: 36
+gioielli: 36
+maglia: 36
+manico: 36
+ombrello: 36
+orecchino: 36
+orologio da polso: 36
+pendaglio: 36
+pietra: 36
+punta: 36
+spilla: 36
+ballerina: 37
+borsa a tracolla: 37
+borsetta: 37
+bretella: 37
+cinghia: 37
+décolleté: 37
+infradito: 37
+laccio: 37
+manici: 37
+mocassino: 37
+occhiello: 37
+portafoglio: 37
+portamonete: 37
+sacca: 37
+sandalo: 37
+scarpa con i lacci: 37
+scarpa da trekking: 37
+scarpa da uomo: 37
+stivale: 37
+suola: 37
+tacco: 37
+valigetta: 37
+zainetto: 37
+zeppa: 37
+arricciacapelli: 38
+asciugacapelli: 38
+asciugare con il phon: 38
+balsamo: 38
+cerchietto: 38
+cliente: 38
+forbici: 38
+forcina: 38
+gel: 38
+grembiule: 38
+lacca: 38
+lavandino: 38
+lavare: 38
+mettere in piega: 38
+parrucchiere: 38
+pettinare: 38
+pettine: 38
+piastra per i capelli: 38
+sciacquare: 38
+shampoo: 38
+spazzola: 38
+spazzolare: 38
+tagliare: 38
+acconciature: 39
+allisciare: 39
+barbiere: 39
+bianchi: 39
+biondo: 39
+calvo: 39
+caschetto: 39
+castano: 39
+coda di cavallo: 39
+codini: 39
+colori: 39
+colpi di sole: 39
+crocchia: 39
+cuoio capelluto: 39
+doppie punte: 39
+elastico: 39
+forfora: 39
+grassi: 39
+grigi: 39
+lisci: 39
+nero: 39
+normale: 39
+parrucca: 39
+permanente: 39
+piega alla francese: 39
+radici: 39
+ricci: 39
+rossi: 39
+secchi: 39
+sfumatura alta: 39
+spuntare: 39
+tinti: 39
+treccia: 39
+bellezza: 40
+cipria: 40
+correttore: 40
+fard: 40
+fondotinta: 40
+lucidalabbra: 40
+mascara: 40
+matita per le labbra: 40
+matita per gli occhi: 40
+ombretto: 40
+pennello: 40
+pinzette: 40
+piumino: 40
+portacipria: 40
+rossetto: 40
+sopracciglia: 40
+specchio: 40
+tintura per capelli: 40
+trucco: 40
+abbronzatura: 41
+acetone: 41
+antirughe: 41
+articoli da toilette: 41
+batuffoli di ovatta: 41
+carnagione: 41
+ceretta: 41
+chiaro: 41
+crema idratante: 41
+esfoliare: 41
+forbicine per le unghie: 41
+grasso: 41
+ipoallergenico: 41
+latte detergente: 41
+lettino solare: 41
+limetta: 41
+lozione tonificante: 41
+manicure: 41
+pedicure: 41
+profumo: 41
+scuro: 41
+secco: 41
+sensibile: 41
+smalto per unghie: 41
+tagliaunghie: 41
+tatuaggio: 41
+tonalit�: 41
+allergia: 44
+asma: 44
+crampi: 44
+diabete: 44
+diarrea: 44
+eczema: 44
+emicrania: 44
+emorragia nasale: 44
+epilessia: 44
+febbre: 44
+febbre da fieno: 44
+ictus: 44
+inalatore: 44
+infarto: 44
+infezione: 44
+influenza: 44
+infreddatura: 44
+mal di stomaco: 44
+mal di testa: 44
+malattia: 44
+morbillo: 44
+nausea: 44
+orecchioni: 44
+pressione sanguigna: 44
+raffreddore: 44
+salute: 44
+sfogo: 44
+starnuto: 44
+tosse: 44
+varicella: 44
+virus: 44
+vomitare: 44
+ambulatorio: 45
+appuntamento: 45
+bilancia: 45
+infermiera: 45
+inoculazione: 45
+manicotto: 45
+medico: 45
+della pressione: 45
+negatoscopio: 45
+paziente: 45
+ricetta: 45
+sala d’attesa: 45
+stetoscopio: 45
+termometro: 45
+visita: 45
+visita medica: 45
+avvelenamento: 46
+collare: 46
+colpo di frusta: 46
+emergenza: 46
+emorragia: 46
+fascia a tracolla: 46
+ferita: 46
+ferita alla testa: 46
+frattura: 46
+incidente: 46
+livido: 46
+morso: 46
+puntura: 46
+sbucciatura: 46
+scheggia: 46
+scossa elettrica: 46
+scottatura: 46
+slogatura: 46
+taglio: 46
+ustione: 46
+antidolorifici: 47
+benda: 47
+bendatura: 47
+soccorso: 47
+cerotto: 47
+disinfettante: 47
+garza: 47
+nastro adesivo: 47
+pomata: 47
+privo di sensi: 47
+pronto soccorso: 47
+pulsazioni: 47
+respirazione: 47
+rianimazione: 47
+salvietta antisettica: 47
+shock: 47
+soffocare: 47
+spilla da balia: 47
+stecca: 47
+analisi del sangue: 48
+anestetista: 48
+camera privata: 48
+chirurgia: 48
+chirurgo: 48
+clinica: 48
+dimesso: 48
+ecografia: 48
+iniezione: 48
+lettiga: 48
+operazione: 48
+orario delle visite: 48
+ospedale: 48
+paziente esterno: 48
+radiografia: 48
+reparto: 48
+reparto maternit�: 48
+reparto pediatrico: 48
+ricoverato: 48
+sala emergenze: 48
+sala operatoria: 48
+scheda del paziente: 48
+sedia a rotelle: 48
+analisi: 49
+cardiologia: 49
+chirurgia plastica: 49
+dermatologia: 49
+endocrinologia: 49
+fisioterapia: 49
+ginecologia: 49
+specialista: 49
+maternit�: 49
+neurologia: 49
+oftalmologia: 49
+oncologia: 49
+ortopedia: 49
+otorinolaringologia: 49
+patologia: 49
+pediatria: 49
+psichiatria: 49
+radiologia: 49
+risultato: 49
+specialista: 49
+urologia: 49
+canino: 50
+capsula: 50
+carie: 50
+controllo: 50
+dente: 50
+dentiera: 50
+dentista: 50
+estrazione: 50
+filo dentale: 50
+gengiva: 50
+incisivo: 50
+lampada: 50
+mal di denti: 50
+molare: 50
+otturazione: 50
+pellicola radiografica: 50
+placca: 50
+poltrona da dentista: 50
+premolare: 50
+radice: 50
+radiografia dentale: 50
+smalto: 50
+sonda: 50
+spazzolino: 50
+sputacchiera: 50
+trapano: 50
+astigmatismo: 51
+bifocale: 51
+cataratta: 51
+cornea: 51
+cristallino: 51
+custodia: 51
+diottria: 51
+esame della vista: 51
+iride: 51
+lacrima: 51
+lenti a contatto: 51
+miopia: 51
+montatura: 51
+nervo ottico: 51
+occhiali: 51
+occhiali da sole: 51
+oculista /: 51
+palpebra: 51
+presbiopia: 51
+pupilla: 51
+retina: 51
+vista: 51
+aborto spontaneo: 52
+amniocentesi: 52
+cervice: 52
+concepimento: 52
+contrazione: 52
+dilatazione: 52
+embrione: 52
+epidurale: 52
+episiotomia: 52
+feto: 52
+ginecologo: 52
+gravidanza: 52
+in stato interessante: 52
+incinta: 52
+liquido amniotico: 52
+nascita: 52
+ostetrico: 52
+parto: 52
+placenta: 52
+podalico: 52
+prematuro: 52
+prenatale: 52
+punti: 52
+rompere le acque: 52
+taglio cesareo: 52
+test di gravidanza: 52
+ultrasuono: 52
+trimestre: 52
+allattamento: 53
+catetere: 53
+coppe: 53
+flebo: 53
+forcipe: 53
+incubatrice: 53
+indurre il travaglio: 53
+monitor: 53
+neonato: 53
+ostetrica: 53
+parto assistito: 53
+peso alla nascita: 53
+pompa tiralatte: 53
+allattamento: 53
+targhetta d’identit�: 53
+ventosa: 53
+chiropratica: 54
+massaggio: 54
+meditazione: 54
+osteopatia: 54
+riflessologia: 54
+shiatsu: 54
+tappetino: 54
+terapie alternative: 54
+yoga: 54
+agopressione: 55
+agopuntura: 55
+aromaterapia: 55
+psicologico: 55
+cristalloterapia: 55
+erba: 55
+erbalismo: 55
+feng shui: 55
+idroterapia: 55
+integratore: 55
+ipnositerapia: 55
+medicina aiurvedica: 55
+naturopatia: 55
+olii essenziali: 55
+omeopatia: 55
+psicoterapia: 55
+reiki: 55
+rilassamento: 55
+stress: 55
+supplemento: 55
+terapia di gruppo: 55
+terapista: 55
+a schiera: 58
+abbaino: 58
+affittare: 58
+affitto: 58
+allarme antifurto: 58
+annesso: 58
+attico: 58
+bifamiliare: 58
+bungalow: 58
+camino: 58
+casa: 58
+casa di citt�: 58
+cortile: 58
+finestra: 58
+garage: 58
+gronda: 58
+grondaia: 58
+inquilino: 58
+luce del portico: 58
+muro: 58
+padrone di casa: 58
+persiana: 58
+piano: 58
+portico: 58
+portone: 58
+seminterrato: 58
+stanza: 58
+tegola: 58
+tetto: 58
+unifamiliare: 58
+viottolo: 58
+appartamento: 59
+ascensore: 59
+balcone: 59
+battente: 59
+campanello: 59
+catenella: 59
+chiave: 59
+chiavistello: 59
+citofono: 59
+corrimano: 59
+entrata: 59
+ingresso: 59
+palazzo: 59
+pianerottolo: 59
+pomello: 59
+porta esterna: 59
+portaombrelli: 59
+ringhiera: 59
+scale: 59
+serratura: 59
+spioncino: 59
+zerbino: 59
+ampere: 60
+calorifero: 60
+corrente alternata: 60
+corrente continua: 60
+elettricit�: 60
+filamento: 60
+fili: 60
+fusibile: 60
+generatore: 60
+in tensione: 60
+interruttore: 60
+lama: 60
+lampadina: 60
+energetico: 60
+messa a terra: 60
+neutro: 60
+piedino: 60
+presa: 60
+sistemi interni: 60
+spina: 60
+stufa: 60
+stufa a convezione: 60
+tensione: 60
+trasformatore: 60
+valvoliera: 60
+ventilatore: 60
+acquaio: 61
+bottiglia: 61
+bruciatore a gas: 61
+cassetta: 61
+contenitore di riciclaggio: 61
+coperchio: 61
+galleggiante: 61
+guarnizione: 61
+impianto idraulico: 61
+isolamento: 61
+leva: 61
+macinatore di rifiuti: 61
+pattumiera: 61
+pedale: 61
+rifiuti organici: 61
+rubinetto: 61
+rubinetto di arresto: 61
+rubinetto di scarico: 61
+scaldaacqua: 61
+scolo: 61
+sedile: 61
+serbatoio: 61
+smaltimento dei rifiuti: 61
+tazza: 61
+termostato: 61
+unità di smistamento: 61
+tubo dell’acqua: 61
+tubo di scolo: 61
+uscita: 61
+water: 61
+applique: 62
+cornice: 62
+cuscino: 62
+divano: 62
+pavimento: 62
+quadro: 62
+salotto: 62
+soffitto: 62
+tavolino: 62
+avvolgibile: 63
+caminetto: 63
+divano letto: 63
+gel per doccia: 63
+libreria: 63
+poltrona: 63
+studio: 63
+tappeto: 63
+tenda: 63
+tendina: 63
+vaso: 63
+veneziana: 63
+affamato: 64
+apparecchiare: 64
+cena: 64
+colazione: 64
+cristalleria: 64
+mangiare: 64
+padrona di casa: 64
+ospite: 64
+pasto: 64
+pepe: 64
+piatti: 64
+porzione: 64
+posate: 64
+pranzo: 64
+sala da pranzo: 64
+sale: 64
+sazio: 64
+schienale: 64
+sedia: 64
+servire: 64
+sottopiatto: 64
+tavolo: 64
+tovaglia: 64
+bicchiere: 65
+brocca: 65
+caffettiera: 65
+calice da vino: 65
+ciotola: 65
+coltello: 65
+coperto: 65
+cucchiaino: 65
+cucchiaio: 65
+cucchiaio da minestra: 65
+forchetta: 65
+piattino: 65
+piatto: 65
+piatto fondo: 65
+piatto piano: 65
+portatovagliolo: 65
+portauovo: 65
+stoviglie: 65
+tazza da tè: 65
+tazzina da caffè: 65
+teiera: 65
+tovagliolo: 65
+alzatina paraspruzzi: 66
+bollitore: 66
+cappa: 66
+cassetto: 66
+cucina: 66
+forno: 66
+microonde: 66
+frullatore: 66
+lavastoviglie: 66
+mensole: 66
+piano di lavoro: 66
+recipiente: 66
+tostapane: 66
+tritatutto: 66
+utensili: 66
+affettare: 67
+affogare: 67
+arrostire: 67
+bollire: 67
+congelare: 67
+congelatore: 67
+cucinare: 67
+cuocere a fuoco lento: 67
+cuocere al forno: 67
+cuocere al vapore: 67
+cuocere alla griglia: 67
+fabbrica-ghiaccio: 67
+fornello: 67
+friggere: 67
+frigocongelatore: 67
+frigorifero: 67
+grattugiare: 67
+mensola: 67
+piano di cottura: 67
+rimestare: 67
+saltare in padella: 67
+sbattere: 67
+sbucciare: 67
+scolapiatti: 67
+scongelare: 67
+spianare: 67
+versare: 67
+affilacoltelli: 68
+apribottiglie: 68
+apriscatole: 68
+cavatorsoli: 68
+colino: 68
+coltello da cucina: 68
+coltello da pane: 68
+cucchiaio da portata: 68
+cucchiaio di legno: 68
+forchettone: 68
+frusta: 68
+grattugia: 68
+mannaia: 68
+martello: 68
+mestolo: 68
+mortaio: 68
+paletta forata: 68
+pelapatate: 68
+pestello: 68
+schiacciapatate: 68
+schiumarola: 68
+scolapasta: 68
+spatola: 68
+spiedino: 68
+spremiaglio: 68
+tagliere: 68
+utensili da cucina: 68
+antiaderente: 69
+bricco misuratore: 69
+casseruola: 69
+cottura dei dolci: 69
+di vetro: 69
+gratella: 69
+guanto da forno: 69
+matterello: 69
+padella: 69
+padella per grigliare: 69
+pennello da cucina: 69
+pentola: 69
+piatto da gratin: 69
+pirofilo: 69
+placca da forno: 69
+stampo: 69
+stampo per dolci: 69
+stampo per flan: 69
+stampo per soufflé: 69
+stampo per torte: 69
+tasca da pasticciere: 69
+teglia: 69
+teglia per pasticcini: 69
+terrina: 69
+wok: 69
+abat-jour: 70
+armadio: 70
+borsa calda: 70
+camera da letto: 70
+cassettone: 70
+comodino: 70
+copriletto: 70
+gruccia: 70
+guanciale: 70
+letto: 70
+materasso: 70
+radiosveglia: 70
+sveglia: 70
+testata: 70
+addormentarsi: 71
+alzarsi: 71
+andare a letto: 71
+armadio a muro: 71
+balza: 71
+biancheria da letto: 71
+coperta: 71
+fare il letto: 71
+federa: 71
+insonnia: 71
+lenzuolo: 71
+letto matrimoniale: 71
+letto singolo: 71
+mettere la sveglia: 71
+pedana del letto: 71
+piumone: 71
+rete del letto: 71
+russare: 71
+svegliarsi: 71
+termocoperta: 71
+toeletta: 71
+trapunta: 71
+medicinali: 72
+bidè: 72
+carta igienica: 72
+collutorio: 72
+dentifricio: 72
+doccia: 72
+farsi il bagno: 72
+farsi la doccia: 72
+filo interdentale: 72
+igiene dentale: 72
+porta della doccia: 72
+portasciugamani: 72
+calda: 72
+fredda: 72
+scendibagno: 72
+sedile del water: 72
+soffione della doccia: 72
+spazzola da water: 72
+spazzolino da denti: 72
+stanza da bagno: 72
+tappo: 72
+tenda da doccia: 72
+vasca: 72
+accappatoio: 73
+asciugamani: 73
+bagnoschiuma: 73
+crema per il viso: 73
+deodorante: 73
+dopobarba: 73
+lametta: 73
+lozione per il corpo: 73
+luffa: 73
+pomice: 73
+portasapone: 73
+rasatura: 73
+rasoio elettrico: 73
+rasoio usa e getta: 73
+sapone: 73
+schiuma da barba: 73
+spugna: 73
+talco: 73
+camera dei bambini: 74
+dormire: 74
+giostrina: 74
+igiene del neonato: 74
+lettino: 74
+materassino: 74
+paracolpi: 74
+pomata antirossore: 74
+portabebè: 74
+sbarre: 74
+sonaglio: 74
+vaschetta: 74
+vasino: 74
+bambola: 75
+biberon: 75
+borsa per il cambio: 75
+box: 75
+capote: 75
+carrozzina: 75
+casa da gioco: 75
+casa delle bambole: 75
+cesta dei giocattoli: 75
+culla portatile: 75
+fermo di sicurezza: 75
+giocattolo: 75
+giocattolo di pezza: 75
+gioco: 75
+interfono: 75
+marsupio: 75
+palla: 75
+orsacchiotto: 75
+pannolino: 75
+passeggiata: 75
+passeggino: 75
+sbarramento: 75
+seggiolone: 75
+sicurezza: 75
+tazza per bere: 75
+tettarella: 75
+ammorbidente: 76
+asciugabiancheria: 76
+asciugare: 76
+asse da stiro: 76
+caricare: 76
+centrifuga: 76
+centrifugare: 76
+lavare: 76
+pulita: 76
+corda per bucato: 76
+da stiro: 76
+lavanderia: 76
+lavasciuga: 76
+lavatrice: 76
+molletta: 76
+panni sporchi: 76
+stirare: 76
+vestiti puliti: 76
+aspirapolvere: 77
+attivit�: 77
+cera: 77
+detergente: 77
+fregare: 77
+in polvere: 77
+liquido: 77
+lucidare: 77
+paletta: 77
+pulire: 77
+raschiare: 77
+scopa: 77
+scopa lavapavimenti: 77
+secchio: 77
+spazzare: 77
+spolverare: 77
+spolverino: 77
+tubo di aspirazione: 77
+varechina: 77
+banco da lavoro: 78
+batteria: 78
+colla da legno: 78
+contornitrice: 78
+girabacchino: 78
+laboratorio: 78
+lucidatore: 78
+mandrino: 78
+mazzuolo: 78
+morsa: 78
+morsetto: 78
+pistola per colla: 78
+prolunga: 78
+sega circolare: 78
+sega da traforo: 78
+trapano elettrico: 78
+trapano ricaricabile: 78
+trucioli: 78
+acciaio inossidabile: 79
+cavo: 79
+compensato: 79
+filo: 79
+incidere: 79
+lega per saldatura: 79
+legno: 79
+legno dolce: 79
+legno duro: 79
+masonite: 79
+materiali: 79
+MDF: 79
+metallo: 79
+piallare: 79
+saldare: 79
+segare: 79
+tecniche: 79
+tornire: 79
+trapanare: 79
+truciolato: 79
+zincato: 79
+alesatore: 80
+bussola: 80
+cacciavite: 80
+chiave a tubo: 80
+chiave regolabile: 80
+chiodo: 80
+dado: 80
+livella: 80
+metro: 80
+pinza tagliafilo: 80
+pinze ad ago: 80
+pinze tonde: 80
+punta di sicurezza: 80
+punta per metalli: 80
+punta per muratura: 80
+punte: 80
+punte per cacciavite: 80
+rondella: 80
+saldatore: 80
+sega manuale: 80
+vite: 80
+affilatore: 81
+bisturi: 81
+cacciavite a croce: 81
+carta vetrata: 81
+ugnature: 81
+chiave inglese: 81
+lana d’acciaio: 81
+lima: 81
+nastro isolante: 81
+occhiali protettivi: 81
+pialla: 81
+pinza spelafilo: 81
+scalpello: 81
+sega per tenoni: 81
+sturalavandini: 81
+tagliatubi: 81
+trapano manuale: 81
+carta da parati: 82
+colla da parati: 82
+coltello da pacchi: 82
+decoratore: 82
+decorazione: 82
+filo a piombo: 82
+incollare: 82
+intonaco: 82
+otturare: 82
+pennello da colla: 82
+piastrellare: 82
+raschietto: 82
+scala a libretto: 82
+scartavetrare: 82
+staccare: 82
+tappezzare: 82
+tavolo da lavoro: 82
+acquaragia: 83
+barattolo di vernice: 83
+carta a rilievo: 83
+carta di fondo: 83
+conservante: 83
+intonacare: 83
+lucido: 83
+malta: 83
+mano di fondo: 83
+mano finale: 83
+coprente: 83
+opaco: 83
+pittura: 83
+rullo: 83
+sigillante: 83
+solvente: 83
+stampino: 83
+stucco: 83
+telo di protezione: 83
+trementina: 83
+vaschetta per la vernice: 83
+vernice di base: 83
+verniciare: 83
+cesto sospeso: 84
+giardino: 84
+giardino acquatico: 84
+giardino all’inglese: 84
+giardino all’italiana: 84
+giardino di erbe: 84
+giardino di rocce: 84
+giardino pensile: 84
+graticcio: 84
+ornamenti per il giardino: 84
+pergola: 84
+tipi di giardino: 84
+aiuola: 85
+arco: 85
+argilla: 85
+bordo erbaceo: 85
+calcare: 85
+cancello: 85
+concimaia: 85
+fontana: 85
+laghetto: 85
+limo: 85
+orto: 85
+patio: 85
+pavimentazione: 85
+prato: 85
+recinto: 85
+sabbia: 85
+sentiero: 85
+serra: 85
+siepe: 85
+strato superficiale: 85
+tavolato: 85
+terreno: 85
+a foglie caduche: 86
+albero: 86
+annuale: 86
+bambù: 86
+biennale: 86
+bulbo: 86
+conifera: 86
+erba aromatica: 86
+erbacce: 86
+felce: 86
+giunco: 86
+palma: 86
+perenne: 86
+pianta acquatica: 86
+piante: 86
+piante da giardino: 86
+sempreverde: 86
+tipi di piante: 86
+arbusto da fiore: 87
+arte topiaria: 87
+cactus: 87
+ornamentale: 87
+pianta copriterreno: 87
+pianta da vaso: 87
+pianta grassa: 87
+pianta strisciante: 87
+piante da roccia: 87
+rampicante: 87
+attrezzi da giardino: 88
+carriola: 88
+cestello: 88
+farina di ossa: 88
+forbici tagliabordi: 88
+forcone: 88
+ghiaia: 88
+motore: 88
+protezione: 88
+raccoglierba: 88
+rastrello: 88
+semi: 88
+sostegno: 88
+tagliabordi: 88
+terriccio: 88
+tosaerba: 88
+vanga: 88
+zappa: 88
+annaffiatoio: 89
+annaffiatura: 89
+anelli: 89
+avvolgitubo: 89
+becco: 89
+canne: 89
+cesoie: 89
+diffusore: 89
+etichette: 89
+fettucce: 89
+forbici da giardino: 89
+irrigatore: 89
+pesticida: 89
+rosa: 89
+sega: 89
+semenzaio: 89
+setaccio: 89
+spago: 89
+tubo: 89
+vaso da fiori: 89
+annaffiare: 90
+spandimento: 90
+giardinaggio: 90
+inforcare: 90
+rastrellare: 90
+scavare: 90
+seminare: 90
+tosare l’erba: 90
+tutore: 90
+aerare: 91
+architettare: 91
+biologico: 91
+canna: 91
+cogliere: 91
+coltivare: 91
+concime: 91
+protettivo: 91
+curare: 91
+diserbante: 91
+far crescere: 91
+innestare: 91
+invasare: 91
+legare a un tutore: 91
+potare: 91
+propagare: 91
+raccogliere: 91
+semenzale: 91
+setacciare: 91
+sottosuolo: 91
+spruzzare: 91
+sradicare le erbacce: 91
+talea: 91
+trapiantare: 91
+accusa: 94
+agente: 94
+aggressione: 94
+ambulanza: 94
+arresto: 94
+auto della polizia: 94
+barella: 94
+cella: 94
+commissario: 94
+denuncia: 94
+furto: 94
+impronta digitale: 94
+indagine: 94
+investigatore: 94
+luci: 94
+manette: 94
+manganello: 94
+paramedico: 94
+pistola: 94
+polizia: 94
+reato: 94
+servizi di emergenza: 94
+sirena: 94
+sospetto: 94
+stazione di polizia: 94
+uniforme: 94
+allarme antifumo: 95
+ascia: 95
+autopompa: 95
+cabina: 95
+casco: 95
+fuoco: 95
+estintore: 95
+fumo: 95
+gabbia: 95
+getto d’acqua: 95
+idrante: 95
+incendio: 95
+scala: 95
+scala di sicurezza: 95
+vigili del fuoco: 95
+addebito diretto: 96
+assegno: 96
+banca: 96
+banco: 96
+bonifico bancario: 96
+carta di credito: 96
+carta di debito: 96
+cassiere: 96
+bancaria: 96
+conto corrente: 96
+dépliants: 96
+direttore: 96
+firma: 96
+importo: 96
+imposta: 96
+ipoteca: 96
+libretto degli assegni: 96
+matrice: 96
+modulo di prelievo: 96
+numero di conto: 96
+pagamento: 96
+pin: 96
+prestito: 96
+risparmi: 96
+scoperto: 96
+sportello: 96
+tasso d’interesse: 96
+azioni: 97
+banconote: 97
+borsa valori: 97
+broker: 97
+capitale netto: 97
+cassa automatica: 97
+commissione: 97
+contabile: 97
+conto di risparmio: 97
+corso per azione: 97
+denominazione: 97
+dividendi: 97
+finanza: 97
+incassare: 97
+investimento: 97
+mercato: 97
+monete: 97
+schermo: 97
+tasso di cambio: 97
+tastiera: 97
+titoli: 97
+ufficio di cambio: 97
+travel cheque: 97
+valuta estera: 97
+affrancatura: 98
+alto: 98
+busta: 98
+postale: 98
+comunicazioni: 98
+consegna: 98
+fax: 98
+fragile: 98
+francobollo: 98
+indirizzo: 98
+lettera: 98
+mittente: 98
+non piegare: 98
+posta aerea: 98
+posta elettronica: 98
+postino: 98
+raccolta: 98
+raccomandata: 98
+sacco postale: 98
+telegramma: 98
+timbro postale: 98
+ufficio postale: 98
+vaglia postale: 98
+app: 99
+base: 99
+buca delle lettere: 99
+cabina telefonica: 99
+cassetta delle lettere: 99
+destinatario: 99
+codice d’accesso: 99
+comporre: 99
+corriere: 99
+messaggio (SMS): 99
+messaggio di testo: 99
+messaggio vocale: 99
+occupato: 99
+operatore: 99
+pacco: 99
+ricevitore: 99
+rispondere: 99
+segreteria telefonica: 99
+abbonati: 99
+staccato: 99
+telefonino: 99
+telefono: 99
+telefono pubblico: 99
+telefono senza fili: 99
+videotelefono: 99
+albergo: 100
+bagaglio: 100
+bagno privato: 100
+camera a due letti: 100
+camera doppia: 100
+camera singola: 100
+camere: 100
+casella: 100
+facchino: 100
+messaggi: 100
+registro: 100
+ricezione: 100
+mezza pensione: 101
+minibar: 101
+palestra: 101
+pensione completa: 101
+piscina: 101
+ristorante: 101
+servizio di pulizia: 101
+servizio in camera: 101
+acquisti: 104
+assistenza ai clienti: 104
+atrio: 104
+camerino: 104
+commesso: 104
+guida al negozio: 104
+insegna: 104
+piano terra: 104
+primo piano: 104
+reparto bagagli: 104
+reparto bambini: 104
+reparto calzature: 104
+scala mobile: 104
+secondo piano: 104
+toilettes: 104
+donna: 105
+articoli da cucina: 105
+articoli elettronici: 105
+articoli sportivi: 105
+biancheria: 105
+cancelleria: 105
+giocattoli: 105
+grande magazzino: 105
+illuminazione: 105
+merceria: 105
+porcellana: 105
+profumeria: 105
+reparto alimentari: 105
+busta della spesa: 106
+carrello: 106
+cassa: 106
+cestino: 106
+codice a barre: 106
+corsia: 106
+lettore ottico: 106
+offerte: 106
+scaffale: 106
+spesa: 106
+supermercato: 106
+articoli elettrici: 107
+bibite: 107
+carne e pollame \: 107
+casalinghi: 107
+cibi pronti: 107
+cibo per animali: 107
+dolci: 107
+elettrodomestici: 107
+frutta: 107
+latticini: 107
+panetteria: 107
+pesce: 107
+riviste: 107
+salumeria: 107
+salumi: 107
+scatolame: 107
+surgelati: 107
+verdure: 107
+assorbente: 108
+crema solare: 108
+deodoranti: 108
+dispensario: 108
+doposole: 108
+farmacia: 108
+farmacista /: 108
+fazzolettino: 108
+igiene femminile: 108
+insettifugo: 108
+rimedi fitoterapici: 108
+salvaslip: 108
+tamponi: 108
+vitamine: 108
+ago: 109
+antidolorifico: 109
+antinfiammatorio: 109
+calcio: 109
+compressa: 109
+contagocce: 109
+data di scadenza: 109
+dosaggio: 109
+effetti collaterali: 109
+ferro: 109
+gocce: 109
+insulina: 109
+istruzioni: 109
+lassativo: 109
+lozione: 109
+magnesio: 109
+medicamento: 109
+medicina: 109
+monouso: 109
+multivitamina: 109
+polvere: 109
+sciroppo: 109
+sedativo: 109
+siringa: 109
+solubile: 109
+sonnifero: 109
+spray: 109
+supposta: 109
+unguento: 109
+acacia: 110
+crisantemo: 110
+fioraio: 110
+fiori: 110
+fogliame: 110
+fresia: 110
+garofano: 110
+gerbera: 110
+giglio: 110
+gipsofila: 110
+gladiolo: 110
+iris: 110
+margherita: 110
+violacciocca: 110
+arrangiamenti: 111
+bocciolo: 111
+corona: 111
+fiori secchi: 111
+ghirlanda: 111
+incarto: 111
+mazzetto: 111
+mazzo di fiori: 111
+narciso: 111
+orchidea: 111
+peonia: 111
+pot-pourri: 111
+stelo: 111
+tulipano: 111
+accendino: 112
+bocchino: 112
+cartolina: 112
+edicola: 112
+francobolli: 112
+fumare: 112
+giornale: 112
+pipa: 112
+rivista: 112
+sigarette: 112
+sigaro: 112
+tabacco: 112
+biscotto: 113
+caramella mou: 113
+caramelle: 113
+caramelle assortite: 113
+caramello: 113
+cioccolatino: 113
+cioccolato al latte: 113
+cioccolato bianco: 113
+confettiere: 113
+dolciumi: 113
+lecca lecca: 113
+liquirizia: 113
+mentina: 113
+merendina: 113
+patatine: 113
+scatola di cioccolatini: 113
+tartufo: 113
+torrone: 113
+agenzia di viaggi: 114
+altri negozi: 114
+drogheria: 114
+fruttivendolo: 114
+gioielleria: 114
+macelleria: 114
+regalo: 114
+panificio: 114
+pasticceria: 114
+pescheria: 114
+boutique: 115
+lavasecco: 115
+negozio di animali: 115
+fotografici: 115
+l’arte: 115
+negozio di dischi: 115
+negozio dietetico: 115
+negozio di liquori: 115
+negozio di mobili: 115
+sartoria: 115
+affumicato: 118
+agnello: 118
+carne bianca: 118
+carne cotta: 118
+carne magra: 118
+carne rossa: 118
+cervo: 118
+cibo: 118
+coniglio: 118
+frattaglie: 118
+gancio: 118
+macellaio: 118
+maiale: 118
+manzo: 118
+pancetta: 118
+ruspante: 118
+salsiccia: 118
+stagionato: 118
+vitello: 118
+ala: 119
+anatra: 119
+arrosto: 119
+bistecca di culaccio: 119
+cacciagione: 119
+carne: 119
+carne macinata: 119
+costata: 119
+costoletta: 119
+cotenna: 119
+fagiano: 119
+fetta: 119
+filetto: 119
+filetto di manzo: 119
+grasso: 119
+oca: 119
+petto: 119
+pollame: 119
+pollo: 119
+pollo preparato: 119
+quaglia: 119
+prosciutto: 119
+rognone: 119
+tacchino: 119
+tagli: 119
+zampa: 119
+eglefino: 120
+gamberi sgusciati: 120
+ghiaccio: 120
+ippoglosso: 120
+merlano: 120
+merluzzo: 120
+orata: 120
+pesce spada: 120
+pinne di razza: 120
+rana pescatrice: 120
+razza: 120
+salmone: 120
+sardina: 120
+sgombro: 120
+sogliola di Dover: 120
+sogliola limanda: 120
+spigola: 120
+tonno: 120
+triglia: 120
+trota iridea: 120
+aragosta: 121
+calamaro: 121
+cannolicchio: 121
+cardio: 121
+coda: 121
+congelato: 121
+cozza: 121
+desquamato: 121
+filetti: 121
+fresco: 121
+frutti di mare: 121
+gambero: 121
+dolce: 121
+granchio: 121
+lombo: 121
+ostrica: 121
+polpo: 121
+pulito: 121
+salato: 121
+seppia: 121
+spellato: 121
+spinato: 121
+squama: 121
+trancia: 121
+vongola: 121
+baccello: 122
+busta di plastica: 122
+cicoria: 122
+cuori di palma: 122
+fagiolino: 122
+fava: 122
+finocchio: 122
+foglia: 122
+germoglio: 122
+germoglio di soia: 122
+granturco: 122
+nocciolo: 122
+okra: 122
+pisello: 122
+sedano: 122
+seme: 122
+verdura: 122
+acetosa: 123
+bieta: 123
+bietola: 123
+broccolo: 123
+cavolo: 123
+cavolo rapa: 123
+cavolo riccio: 123
+crescione: 123
+dente di leone: 123
+indivia: 123
+lattuga: 123
+radicchio: 123
+rucola: 123
+spinaci: 123
+verza: 123
+amaro: 124
+asparago: 124
+carciofo: 124
+carota: 124
+cassava: 124
+castagna d’acqua: 124
+cavolfiore: 124
+cipolla: 124
+crudo: 124
+dolce: 124
+pane: 124
+mais: 124
+patata: 124
+patata novella: 124
+peperoncino: 124
+peperone: 124
+piccante: 124
+polpa: 124
+radice di taro: 124
+rapa: 124
+ravanello: 124
+sedano rapa: 124
+sodo: 124
+zucca: 124
+aglio: 125
+barbabietola: 125
+cetriolo: 125
+cipollina: 125
+fungo: 125
+igname: 125
+melanzana: 125
+pastinaca: 125
+patata dolce: 125
+pomodoro: 125
+porro: 125
+rafano: 125
+rapa svedese: 125
+scalogno: 125
+spicchio: 125
+topinambur: 125
+zenzero: 125
+zucca a ghianda: 125
+zucca Butternut: 125
+zucchina: 125
+agrumi: 126
+albicocca: 126
+arancia: 126
+arancino cinese: 126
+cestino di frutta: 126
+ciliegia: 126
+clementina: 126
+frutta con nocciolo: 126
+frutta snocciolata: 126
+limone: 126
+mandarino: 126
+mapo: 126
+mela: 126
+pesca: 126
+pesca noce: 126
+pompelmo: 126
+prugna: 126
+satsuma: 126
+scorza: 126
+scorza interna: 126
+agre: 127
+anguria: 127
+buccia: 127
+croccante: 127
+fibra: 127
+fragola: 127
+lampone: 127
+marcio: 127
+melone: 127
+mirtillo: 127
+mora: 127
+mora-lampone: 127
+ossicocco: 127
+pera: 127
+rabarbaro: 127
+ribes bianco: 127
+ribes nero: 127
+senza semi: 127
+succo: 127
+sugoso: 127
+torsolo: 127
+uva spina: 127
+alchechengi: 128
+ananas: 128
+avocado: 128
+banana: 128
+cachi: 128
+carambola: 128
+feijoa: 128
+fico d’india: 128
+frutta tropicale: 128
+guaiava: 128
+kiwi: 128
+litchi: 128
+mango: 128
+mangostina: 128
+mela cotogna: 128
+melagrana: 128
+papaia: 128
+acerbo: 129
+anacardio: 129
+arachide: 129
+arrostito: 129
+castagna: 129
+dattero: 129
+duro: 129
+essiccato: 129
+fico: 129
+frutta candita: 129
+frutta secca: 129
+guscio: 129
+intero: 129
+mandorla: 129
+maturo: 129
+morbido: 129
+nocciola: 129
+noce: 129
+noce di cocco: 129
+noce pecan: 129
+pinolo: 129
+pistacchio: 129
+prugna secca: 129
+sgusciato: 129
+stagionale: 129
+uva passa: 129
+uva sultanina: 129
+uvetta: 129
+a chicco corto: 130
+a chicco lungo: 130
+avena: 130
+cereale: 130
+cereali trattati: 130
+cottura facile: 130
+crusca: 130
+cuscus: 130
+granaglie: 130
+grano: 130
+grano spezzato: 130
+legumi secchi: 130
+mettere a bagno: 130
+miglio: 130
+orzo: 130
+profumato: 130
+quinoa: 130
+pula: 130
+riso: 130
+riso bianco: 130
+riso da budino: 130
+riso integrale: 130
+riso selvatico: 130
+semola: 130
+ceci: 131
+fagioli: 131
+fagioli aduki: 131
+fagioli bianchi: 131
+fagioli borlotti: 131
+fagioli cannellini: 131
+fagioli dall’occhio nero: 131
+fagioli di Spagna: 131
+fagioli mung: 131
+fagioli nani: 131
+fave: 131
+integrale: 131
+lenticchie marroni: 131
+lenticchie rosse: 131
+piselli: 131
+piselli spaccati: 131
+seme di girasole: 131
+seme di sesamo: 131
+seme di zucca: 131
+semi di carvi: 131
+semi di mostarda: 131
+semi di soia: 131
+cardamomo: 132
+cumino: 132
+curcuma: 132
+erbe e spezie: 132
+fieno greco: 132
+grano di pepe: 132
+macinato: 132
+macis: 132
+noce moscata: 132
+paprica: 132
+polvere di curry: 132
+scaglie: 132
+spezie: 132
+tritato: 132
+vaniglia: 132
+zafferano: 132
+anice stellato: 133
+alloro: 133
+aneto: 133
+basilico: 133
+bastoncino: 133
+cannella: 133
+chiodi di garofano: 133
+citronella: 133
+coriandolo: 133
+dragoncello: 133
+erba cipollina: 133
+erbe: 133
+maggiorana: 133
+menta: 133
+origano: 133
+prezzemolo: 133
+rosmarino: 133
+salvia: 133
+semi di finocchio: 133
+timo: 133
+barattolo: 134
+chutney: 134
+cibi imbottigliati: 134
+confetture: 134
+conserva di frutta: 134
+crema al limone: 134
+erbe aromatiche: 134
+marmellata: 134
+miele condensato: 134
+miele sciolto: 134
+oli: 134
+olio aromatizzato: 134
+olio di mandorla: 134
+olio di noccioline: 134
+olio di noce: 134
+olio di semi d’uva: 134
+olio d’oliva: 134
+salsa: 134
+sciroppo d’acero: 134
+aceto: 135
+aceto balsamico: 135
+aceto di malto: 135
+aceto di sidro: 135
+aceto di vino: 135
+ermetica: 135
+burro di arachidi: 135
+favo: 135
+ketchup: 135
+maionese: 135
+mostarda: 135
+mostarda con semi: 135
+olio di colza: 135
+olio di mais: 135
+olio vegetale: 135
+senape: 135
+cartone di latte: 136
+crosta: 136
+formaggio: 136
+formaggio duro: 136
+formaggio fresco: 136
+latte: 136
+latte condensato: 136
+latte di capra: 136
+latte di mucca: 136
+latte intero: 136
+scremato: 136
+latte scremato: 136
+burro: 137
+chiara: 137
+frullato: 137
+gelato: 137
+latte di pecora: 137
+latte in polvere: 137
+lattosio: 137
+margarina: 137
+non pastorizzato: 137
+omogeneizzato: 137
+panna: 137
+panna acida: 137
+panna densa: 137
+panna fresca: 137
+panna liquida: 137
+panna montata: 137
+pastorizzato: 137
+porta uovo: 137
+senza grassi: 137
+senza sale: 137
+siero di latte: 137
+tuorlo: 137
+uova: 137
+uovo alla coque: 137
+uovo di anatra: 137
+uovo di gallina: 137
+uovo di quaglia: 137
+uovo d’oca: 137
+yogurt: 137
+yogurt gelato: 137
+fare il pane: 138
+farina bianca: 138
+farina integrale: 138
+farine: 138
+filone: 138
+impastare: 138
+lievito: 138
+mescolare: 138
+pane affettato: 138
+pane di segale: 138
+pane e farine: 138
+pasta: 138
+semi di papavero: 138
+affettatrice: 139
+assaggiare: 139
+bagel: 139
+briciole: 139
+farina autolievitante: 139
+farina nera: 139
+farina per il pane: 139
+farina semplice: 139
+glassare: 139
+lievitare: 139
+naan: 139
+pagnotta: 139
+pagnotella: 139
+pane alla frutta: 139
+pane bianco: 139
+pane biscottato: 139
+pane con semi: 139
+pane di granaio: 139
+pane di mais: 139
+pane integrale: 139
+panettiere: 139
+panino: 139
+pita: 139
+riposare: 139
+schiacciata: 139
+bignè ripieno: 140
+budino di riso: 140
+crema: 140
+crema pasticcera: 140
+crostatina: 140
+dessert: 140
+dolce di frutta: 140
+éclair: 140
+festa: 140
+focaccina: 140
+meringa: 140
+muffin: 140
+pan di Spagna: 140
+pasta filo: 140
+pasta sfoglia: 140
+ripieno: 140
+torta al cioccolato: 140
+biscotti: 141
+biscotto alle noci: 141
+cioccolato: 141
+candeline: 141
+flan: 141
+glassatura: 141
+marzapane: 141
+mousse: 141
+piano inferiore: 141
+piano superiore: 141
+savoiardi: 141
+soffiare: 141
+sorbetto: 141
+torta alla crema: 141
+torta nuziale: 141
+brie: 142
+camembert: 142
+carne cruda: 142
+cheddar: 142
+edam: 142
+manchego: 142
+mozzarella: 142
+olio: 142
+parmigiano: 142
+pâté: 142
+salame: 142
+salame piccante: 142
+salsiccia piccante: 142
+sformato: 142
+capperi: 143
+chorizo: 143
+in salamoia: 143
+marinato: 143
+oliva nera: 143
+oliva ripiena: 143
+oliva verde: 143
+paninoteca: 143
+pasticci di carne: 143
+pesce affumicato: 143
+prosciutto crudo: 143
+sott’olio: 143
+trattato: 143
+acqua: 144
+acqua in bottiglia: 144
+acqua minerale: 144
+acqua naturale: 144
+acqua tonica: 144
+aranciata: 144
+bevanda al malto: 144
+bevande: 144
+bevande calde: 144
+bustina di tè: 144
+caffè: 144
+cannuccia: 144
+chicchi: 144
+cioccolato caldo: 144
+coca: 144
+frizzante: 144
+limonata: 144
+naturale: 144
+soda: 144
+succo d’uva: 144
+tè: 144
+tè sciolto: 144
+bevande alcoliche: 145
+bianco: 145
+birra: 145
+birra amara: 145
+birra scura: 145
+brandy: 145
+Campari: 145
+champagne: 145
+gin: 145
+lattina: 145
+liquore: 145
+porto: 145
+rosé: 145
+rosso: 145
+rum: 145
+sherry: 145
+sidro: 145
+tequila: 145
+vino: 145
+vodka: 145
+whisky: 145
+bar all’aperto: 148
+bar con terrazza: 148
+caffè nero: 148
+cameriere: 148
+cappuccino: 148
+espresso: 148
+menù: 148
+polvere di cacao: 148
+schiuma: 148
+snack bar: 148
+succo d’arancia: 148
+camomilla: 149
+frappé: 149
+al caffè: 149
+insalata: 149
+pallina: 149
+spremuta: 149
+succo d’ananas: 149
+succo di mela: 149
+tè al limone: 149
+tè alla menta: 149
+tè alle erbe: 149
+tè con latte: 149
+tè freddo: 149
+tè nero: 149
+tè verde: 149
+bar: 150
+barista: 150
+bicchieri: 150
+cavatappi: 150
+miscelatore: 150
+misurino: 150
+pinze: 150
+portaghiaccio: 150
+posacenere: 150
+sgabello: 150
+shaker: 150
+sottobicchiere: 150
+spillatore di birra: 150
+anacardi: 151
+cocktail: 151
+cubetto di ghiaccio: 151
+doppio: 151
+ghiaccio e limone: 151
+gin tonic: 151
+martini: 151
+misura: 151
+noccioline: 151
+olive: 151
+rum con coca cola: 151
+singolo: 151
+stuzzichini: 151
+vodka all’arancia: 151
+a la carte: 152
+aiuto cuoco: 152
+buffet: 152
+carrello dei dolci: 152
+conto: 152
+cuoco: 152
+lista dei vini: 152
+menù del pranzo: 152
+menù della cena: 152
+piatti del giorno: 152
+prezzo: 152
+ricevuta: 152
+servizio compreso: 152
+vassoio: 152
+antipasto: 153
+aperitivo: 153
+contorno: 153
+cucchiaino da caffè: 153
+minestra: 153
+pagare: 153
+ordinare: 153
+piatto principale: 153
+portate: 153
+bibita: 154
+bibita in lattina: 154
+da asporto: 154
+hamburger: 154
+listino: 154
+mangiare sul posto: 154
+patata fritte: 154
+pizza: 154
+pizzeria: 154
+riscaldare: 154
+salsa di pomodoro: 154
+tovagliolo di carta: 154
+condimento: 155
+costolette: 155
+crêpe: 155
+hot dog: 155
+piadina: 155
+pollo fritto: 155
+tramezzino: 155
+tramezzino aperto: 155
+wurstel: 155
+cioccolata calda: 156
+cornetto: 156
+succo di frutta: 156
+aringhe affumicate: 157
+brioche: 157
+crêpes: 157
+frutta fresca: 157
+pane: 157
+pane fritto all’uovo: 157
+pane tostato: 157
+porridge: 157
+sanguinaccio: 157
+uova strappazzate: 157
+uovo fritto: 157
+waffle: 157
+yogurt alla frutta: 157
+curry: 158
+frittata: 158
+frittura: 158
+insalata mista: 158
+insalata verde: 158
+pasticcio: 158
+polpette: 158
+soufflé: 158
+stufato: 158
+taglierini: 158
+zuppa: 158
+affogato: 159
+al sugo: 159
+al vapore: 159
+alla griglia: 159
+allo sciroppo: 159
+condito: 159
+cotto al forno: 159
+farcito: 159
+fritto: 159
+fritto in padella: 159
+metodi: 159
+schiacciato: 159
+sottaceto: 159
+alumna: 162
+arte: 162
+aula: 162
+biologia: 162
+cartella: 162
+chimica: 162
+disegnare: 162
+educazione fisica: 162
+fisica: 162
+geografia: 162
+gesso: 162
+insegnante /: 162
+lavagna: 162
+leggere: 162
+letteratura: 162
+matematica: 162
+musica: 162
+scandire: 162
+scienza: 162
+scolara: 162
+scolaro: 162
+scrivere: 162
+scuola: 162
+storia: 162
+astuccio: 163
+classe: 163
+compiti: 163
+discutere: 163
+dizionario: 163
+domanda: 163
+domandare: 163
+enciclopedia: 163
+esame: 163
+gomma: 163
+imparare: 163
+lezione: 163
+libro di testo: 163
+livello: 163
+matita: 163
+matita colorata: 163
+penna: 163
+prendere appunti: 163
+preside /: 163
+proiettore digitale: 163
+quaderno: 163
+righello: 163
+risposta: 163
+tema: 163
+temperamatite: 163
+angolo: 164
+centro: 164
+cilindro: 164
+circonferenza: 164
+cono: 164
+cubo: 164
+diagonale: 164
+diametro: 164
+esagono: 164
+forme: 164
+ipotenusa: 164
+lato: 164
+ottagono: 164
+ovale: 164
+parallelogramma: 164
+pentagono: 164
+piramide: 164
+quadrato: 164
+raggio: 164
+rettangolo: 164
+rombo: 164
+sfera: 164
+solidi: 164
+triangolo: 164
+altezza: 165
+apice: 165
+aritmetica: 165
+attrezzatura: 165
+calcolatrice: 165
+cerchio: 165
+compasso: 165
+contare: 165
+curvo: 165
+decimale: 165
+denominatore: 165
+dimensioni: 165
+dividere: 165
+diviso per: 165
+dritto: 165
+equazione: 165
+frazione: 165
+geometria: 165
+goniometro: 165
+larghezza: 165
+linee: 165
+lunghezza: 165
+meno: 165
+misure: 165
+moltiplicare: 165
+moltiplicato per: 165
+numeratore: 165
+parallelo: 165
+percentuale: 165
+perpendicolare: 165
+più: 165
+profondit�: 165
+sommare: 165
+sottrarre: 165
+squadra: 165
+superficie: 165
+uguale: 165
+volume: 165
+ampolla: 166
+becco Bunsen: 166
+bilancia a molla: 166
+bottiglia di vetro: 166
+capsula di Petri: 166
+crogiolo: 166
+cronometro: 166
+esperimento: 166
+imbuto: 166
+peso: 166
+provetta: 166
+rastrelliera: 166
+treppiede: 166
+bacchetta di vetro: 167
+becher: 167
+calamita: 167
+elettrodo negativo: 167
+elettrodo positivo: 167
+filtro di carta: 167
+lastrina: 167
+fuoco: 167
+microscopio: 167
+obiettivo: 167
+oculare: 167
+pipetta: 167
+reticella: 167
+ripiano: 167
+banco prestiti: 168
+biblioteca: 168
+bibliotecaria: 168
+campo sportivo: 168
+campus: 168
+libro: 168
+lista dei libri: 168
+periodico: 168
+prendere in prestito: 168
+prenotare: 168
+refettorio: 168
+rinnovare: 168
+sala di lettura: 168
+tesserino: 168
+titolo: 168
+ufficio iscrizioni: 168
+universit�: 168
+conservatorio: 169
+dipartimento: 169
+diploma: 169
+diritto: 169
+dissertazione: 169
+docente: 169
+dottorato: 169
+economia: 169
+filosofia: 169
+ingegneria: 169
+laurea: 169
+laureata: 169
+masters: 169
+modella: 169
+perfezionamento: 169
+politica: 169
+ricerca: 169
+scuola d’arte: 169
+scuole: 169
+storia dell’arte: 169
+tesi: 169
+toga: 169
+zoologia: 169
+ufficio: 172
+blocco: 172
+cartellina: 172
+computer: 172
+copiare: 172
+ingrandire: 172
+lavoro: 172
+portapenne: 172
+ridurre: 172
+schedario: 172
+scrivania: 172
+sedia girevole: 172
+stampante: 172
+stampare: 172
+vassoio in arrivo: 172
+vassoio in partenza: 172
+agenda: 173
+bacheca: 173
+carta intestata: 173
+cartella sospesa: 173
+cucitrice: 173
+dispenser: 173
+divisore: 173
+etichetta: 173
+fermafogli: 173
+graffetta: 173
+perforatore: 173
+fermaglio: 173
+fisazz rmonica: 173
+puntina: 173
+raccoglitore a leva: 173
+scatola d’archivio: 173
+timbro di gomma: 173
+cavalletto: 174
+dirigente: 174
+ordine del giorno: 174
+partecipare: 174
+presentazione: 174
+presiedere: 174
+proposta: 174
+relatore: 174
+relazione: 174
+riunione: 174
+sala da riunione: 174
+verbale: 174
+accordo di affari: 175
+affari: 175
+delegato: 175
+donna d’affari: 175
+libro paga: 175
+opuscolo: 175
+personale: 175
+pranzo di lavoro: 175
+sede centrale: 175
+smartphone: 175
+societ�: 175
+stipendio: 175
+succursale: 175
+ufficio contabilit�: 175
+clienti: 175
+ufficio legale: 175
+ufficio marketing: 175
+ufficio vendite: 175
+uomo d’affari: 175
+viaggio d’affari: 175
+altoparlante: 176
+applicazione: 176
+byte: 176
+chiavetta USB: 176
+hardware: 176
+memoria: 176
+mouse: 176
+porta: 176
+processore: 176
+programma: 176
+RAM: 176
+rete: 176
+scanner: 176
+server: 176
+sistema: 176
+software: 176
+tasto: 176
+elettronica: 177
+allegato: 177
+barra del menu: 177
+browser: 177
+carattere: 177
+cercare: 177
+collegare: 177
+collegarsi: 177
+desktop: 177
+e-mail: 177
+file: 177
+fornitore di servizi: 177
+icona: 177
+in rete: 177
+elettronica: 177
+indirizzo e-mail: 177
+installazione: 177
+Internet: 177
+navigare: 177
+posta in arrivo: 177
+ricevere: 177
+salvare: 177
+scaricare: 177
+sfondo: 177
+sito web: 177
+spedire: 177
+cameraman: 178
+canale: 178
+telecamera: 178
+cartone animato: 178
+documentario: 178
+gioco a premi: 178
+in differita: 178
+in diretta: 178
+mass media: 178
+presentatore: 178
+programmazione: 178
+serie televisiva: 178
+set: 178
+stampa: 178
+studio televisivo: 178
+telecamera: 178
+telegiornale: 178
+telenovela: 178
+trasmettere: 178
+analogico: 179
+annunciatrice: 179
+attori: 179
+canale radiofonico: 179
+ciac: 179
+cronista: 179
+digitale: 179
+DJ: 179
+frequenza: 179
+giraffa: 179
+gobbo: 179
+intervistatore: 179
+lunghezza d’onda: 179
+microfono: 179
+onda corta: 179
+onda lunga: 179
+onda media: 179
+piano di mixaggio: 179
+radio: 179
+serie: 179
+sintonizzare: 179
+tecnico del suono: 179
+accusato: 180
+aula del tribunale: 180
+avvocato: 180
+banco della giuria: 180
+citazione: 180
+consulenza legale: 180
+criminale: 180
+dichiarazione: 180
+giuria: 180
+guardia: 180
+imputazione: 180
+legge: 180
+mandato: 180
+ordine: 180
+petizione: 180
+procedimento: 180
+testimone: 180
+assolto: 181
+carcere: 181
+cauzione: 181
+difesa: 181
+fedina penale: 181
+fotofit: 181
+giudice: 181
+guardia carceraria: 181
+imputato: 181
+innocente: 181
+libertà condizionale: 181
+martelletto: 181
+persona sospetta: 181
+prova: 181
+ricorso: 181
+sentenza: 181
+stenografo: 181
+verdetto: 181
+agricoltore: 182
+aia: 182
+aratro: 182
+campo: 182
+capanno: 182
+casolare: 182
+fattoria: 182
+granaio: 182
+mietitrebbia: 182
+pascolo: 182
+terreno agricolo: 182
+trattore: 182
+arare: 183
+azienda agricola: 183
+azienda avicola: 183
+bestiame: 183
+caseificio: 183
+dar da mangiare: 183
+erbicida: 183
+gregge: 183
+irrigare: 183
+mandria: 183
+mangiatoia: 183
+mungere: 183
+piantare: 183
+raccolto: 183
+silos: 183
+solco: 183
+tipi di fattoria: 183
+vigna: 183
+vigneto: 183
+vivaio ittico: 183
+alfalfa: 184
+balla: 184
+canna da zucchero: 184
+colture: 184
+colza: 184
+cotone: 184
+fieno: 184
+girasole: 184
+lino: 184
+spaventapasseri: 184
+anatroccolo: 185
+asino: 185
+capra: 185
+capretto: 185
+cavallo: 185
+gallina: 185
+gallo: 185
+maialino: 185
+mucca: 185
+pecora: 185
+pollaio: 185
+porcile: 185
+pulcino: 185
+puledro: 185
+stalla: 185
+toro: 185
+architrave: 186
+betoniera: 186
+cantiere: 186
+carrello elevatore: 186
+cemento: 186
+costruire: 186
+edilizia: 186
+impalcatura: 186
+muratore: 186
+pallet: 186
+trave del tetto: 186
+attrezzi: 187
+birillo: 187
+calcestruzzo: 187
+ribaltabile: 187
+catrame: 187
+cazzuola: 187
+gru: 187
+lavori stradali: 187
+macchinari: 187
+mattone: 187
+mazza: 187
+pala: 187
+piccone: 187
+riasfaltatura: 187
+rullo compressore: 187
+supporto: 187
+commessa: 188
+elettricista: 188
+falegname: 188
+fioraia: 188
+giardiniere: 188
+gioielliere: 188
+idraulico: 188
+meccanico: 188
+mestieri: 188
+pescivendola: 188
+agente immobiliare: 189
+dentista: 189
+divisa: 189
+marinaio: 189
+mascherina: 189
+mitragliatrice: 189
+pescatore: 189
+poliziotto: 189
+soldato: 189
+veterinaria: 189
+vigile del fuoco: 189
+agente di viaggio: 190
+architetto: 190
+assistente di volo: 190
+autista: 190
+bibliotecario: 190
+camionista: 190
+commercialista: 190
+giornalista: 190
+modello: 190
+pilota: 190
+scienziata: 190
+tassista: 190
+appunti: 191
+atleta: 191
+attore: 191
+cameriera: 191
+cantante /: 191
+costumista: 191
+disegnatore: 191
+fotografo: 191
+musicista: 191
+pittrice: 191
+redattrice: 191
+sarto: 191
+scultore: 191
+tutù: 191
+autostrada: 194
+camion: 194
+casello: 194
+cavalcavia: 194
+corsia centrale: 194
+corsia esterna: 194
+corsia interna: 194
+linea divisoria: 194
+rampa di accesso: 194
+rampa di uscita: 194
+semaforo: 194
+senso unico: 194
+sottopassaggio: 194
+strade: 194
+svincolo: 194
+traffico: 194
+trasporti: 194
+cartello stradale: 195
+deviazione: 195
+doppia carreggiata: 195
+fare marcia indietro: 195
+guardrail: 195
+guidare: 195
+ingorgo: 195
+ingresso vietato: 195
+limite di velocit�: 195
+parcheggiare: 195
+per disabili: 195
+parchimetro: 195
+pedonale: 195
+pericolo: 195
+rimorchiare: 195
+rotatoria: 195
+sorpassare: 195
+sosta vietata: 195
+vigile urbano: 195
+autobus: 196
+bagagliaio: 196
+filobus: 196
+maniglia: 196
+porta a soffietto: 196
+pullman: 196
+ruota anteriore: 196
+scuolabus: 196
+sedile dell’autista: 196
+tipi di autobus: 196
+tram: 196
+rotelle: 197
+autostazione: 197
+biglietto: 197
+finestrino: 197
+navetta: 197
+orario: 197
+pensilina: 197
+pullman turistico: 197
+pulmino: 197
+ruota posteriore: 197
+tariffa: 197
+auto sportiva: 198
+autolavaggio: 198
+automobile: 198
+bagagli: 198
+cofano: 198
+esterno: 198
+faro: 198
+freccia: 198
+parabrezza: 198
+paraurti: 198
+pneumatico: 198
+portabagagli: 198
+portellone: 198
+ruota: 198
+targa: 198
+tergicristallo: 198
+antigelo: 199
+auto d’epoca: 199
+auto familiare: 199
+benzina: 199
+berlina: 199
+detergente per vetri: 199
+diesel: 199
+fuoristrada: 199
+limousine: 199
+monovolume: 199
+piombata: 199
+pompa di benzina: 199
+senza piombo: 199
+stazione di servizio: 199
+tipi: 199
+a due porte: 200
+a quattro porte: 200
+a tre porte: 200
+acceleratore: 200
+accensione: 200
+aria condizionata: 200
+automatico: 200
+bracciolo: 200
+freno: 200
+frizione: 200
+interno: 200
+manuale: 200
+poggiatesta: 200
+sedile posteriore: 200
+sicura: 200
+airbag: 201
+autoradio: 201
+clacson: 201
+comandi: 201
+riscaldamento: 201
+contachilometri: 201
+contagiri: 201
+cruscotto: 201
+guida a destra: 201
+guida a sinistra: 201
+leva del cambio: 201
+luci intermittenti: 201
+odometro: 201
+spia del carburante: 201
+volante: 201
+carrozzeria: 202
+coprimozzo: 202
+filtro dell’aria: 202
+dell’olio: 202
+meccanica: 202
+radiatore: 202
+lavavetri: 202
+serbatoio del liquido per i freni: 202
+refrigerante: 202
+testa del cilindro: 202
+tettuccio: 202
+trasmissione: 202
+ventola: 202
+alternatore: 203
+assicurazione: 203
+bulloni della ruota: 203
+cambiare una ruota: 203
+candela: 203
+carro attrezzi: 203
+cric: 203
+distributore: 203
+foratura: 203
+freno a mano: 203
+guasto: 203
+incidente stradale: 203
+messa in fase: 203
+ruota di scorta: 203
+scatola dei fusibili: 203
+serbatoio della benzina: 203
+silenziatore: 203
+sospensione: 203
+telaio: 203
+fanale posteriore: 204
+motocicletta: 204
+portapacchi: 204
+sellino posteriore: 204
+serbatoio dell’olio: 204
+abbigliamento: 205
+ammortizzatore: 205
+asse: 205
+fascia rifrangente: 205
+moto da corsa: 205
+moto da cross: 205
+moto da turismo: 205
+motorino: 205
+parafango: 205
+paraginocchio: 205
+pedale del freno: 205
+proiettore: 205
+tuta di pelle: 205
+visiera: 205
+bicicletta: 206
+bicicletta da corsa: 206
+bicicletta da strada: 206
+bicicletta da turismo: 206
+borraccia: 206
+cerchione: 206
+marce: 206
+mountain bike: 206
+mozzo: 206
+pista ciclabile: 206
+ruota dentata: 206
+sellino: 206
+tandem: 206
+tubo reggisella: 206
+andare in bici: 207
+battistrada: 207
+blocca freni: 207
+cambiare marcia: 207
+camera d’aria: 207
+catarifrangente: 207
+cinghietto: 207
+dinamo: 207
+fanale: 207
+fermapiedi: 207
+forcella: 207
+frenare: 207
+kit per riparazioni: 207
+leva del freno: 207
+lucchetto: 207
+manubrio: 207
+pedalare: 207
+pompa: 207
+posteggio per bici: 207
+rotelle: 207
+toppa: 207
+valvola: 207
+binario: 208
+locomotiva: 208
+monorotaia: 208
+pendolare: 208
+rotaia: 208
+stazione ferroviaria: 208
+tipi di treno: 208
+treno: 208
+treno a vapore: 208
+treno diesel: 208
+treno elettrico: 208
+treno merci: 208
+vagone: 208
+barriera: 209
+biglietteria: 209
+cambiare: 209
+controllore: 209
+leva di emergenza: 209
+metropolitana: 209
+metropolitana: 209
+ora di punta: 209
+rete ferroviaria: 209
+ritardo: 209
+scompartimento: 209
+cuccette: 209
+segnale: 209
+passeggeri: 209
+treno intercity: 209
+vagone ristorante: 209
+aereo di linea: 210
+aeroplano: 210
+aletta: 210
+alettone: 210
+portabagagli: 210
+corridoio: 210
+fila: 210
+fusoliera: 210
+luce di lettura: 210
+muso: 210
+stabilizzatore: 210
+timone: 210
+uscita di emergenza: 210
+ventola per l’aria: 210
+aereo biposto: 211
+aereo da caccia: 211
+aereo da diporto: 211
+aereo privato: 211
+aliante: 211
+atterrare: 211
+bagaglio a mano: 211
+biplano: 211
+bombardiere: 211
+business class: 211
+classe economica: 211
+copilota: 211
+decollare: 211
+elica: 211
+elicottero: 211
+idrovolante: 211
+lama rotante: 211
+missile: 211
+mongolfiera: 211
+quota: 211
+volare: 211
+aeroporto: 212
+coincidenza: 212
+dogana: 212
+fare il check-in: 212
+immigrazione: 212
+pista: 212
+prenotare un volo: 212
+terminal: 212
+torre di controllo: 212
+vacanza: 212
+veicolo di servizio: 212
+volo nazionale: 212
+arrivi: 213
+autonoleggio: 213
+carta d’imbarco: 213
+destinazione: 213
+negozio duty free: 213
+numero del volo: 213
+partenze: 213
+passaporto: 213
+posteggio dei taxi: 213
+ricupero bagagli: 213
+sala delle partenze: 213
+visto: 213
+ancora: 214
+antenna della radio: 214
+barca a remi: 214
+canoa: 214
+capitano: 214
+casseretto: 214
+chiglia: 214
+fumaiolo: 214
+motoscafo: 214
+mulinello: 214
+nave: 214
+oblò: 214
+passerella: 214
+ponte: 214
+radar: 214
+sala macchine: 214
+scafo: 214
+aliscafo: 215
+altre imbarcazioni: 215
+barca a vela: 215
+catamarano: 215
+gommone: 215
+hovercraft: 215
+imbarcazioni: 215
+motore fuoribordo: 215
+nave da crociera: 215
+nave da guerra: 215
+nave da trasporto: 215
+petroliera: 215
+portaerei: 215
+prua: 215
+rimorchiatore: 215
+sartiame: 215
+sottomarino: 215
+stiva: 215
+traghetto: 215
+yacht: 215
+banchina: 216
+carico: 216
+container: 216
+magazzino: 216
+passeggero: 216
+strada di accesso: 216
+terminale di carenaggio: 216
+barca da pesca: 217
+boa: 217
+cantiere navale: 217
+capitano di porto: 217
+entrare in bacino: 217
+imbarcare: 217
+luce: 217
+mollare l’ancora: 217
+molo: 217
+ormeggiare: 217
+ormeggio: 217
+pontile: 217
+porto da pesca: 217
+poto turistico: 217
+salpare: 217
+sbarcare: 217
+attacco: 220
+cheerleader: 220
+fondo campo: 220
+football americano: 220
+fumble: 220
+ginocchiere: 220
+giocatore: 220
+giudice di linea: 220
+linea del gol: 220
+linea laterale: 220
+pallone: 220
+passare: 220
+placcare: 220
+prendere: 220
+punteggio: 220
+scarpino: 220
+sport: 220
+touch-down: 220
+area della porta: 221
+bandierina: 221
+campo di rugby: 221
+divisa da rugby: 221
+linea di palla morta: 221
+linea di touch: 221
+meta: 221
+mischia: 221
+ruck: 221
+rugby: 221
+tirare: 221
+arbitro: 222
+attaccante: 222
+calciatore: 222
+centro campo: 222
+colpire di testa: 222
+dribblare: 222
+fallo: 222
+palo: 222
+portiere: 222
+rigore: 222
+traversa: 222
+area di rigore: 223
+calciare: 223
+campionato: 223
+cartellino giallo: 223
+cartellino rosso: 223
+contrastare: 223
+difensore: 223
+espulsione: 223
+fuorigioco: 223
+guardialinee: 223
+intervallo: 223
+linea di fondo: 223
+parare: 223
+pareggio: 223
+rimessa in gioco: 223
+segnare: 223
+sostituto: 223
+sostituzione: 223
+stadio: 223
+trasferta: 223
+area di attacco: 224
+area di difesa: 224
+area neutrale: 224
+cerchio centrale: 224
+colpire: 224
+dischetto: 224
+ghiaccio: 224
+guanto: 224
+hockey: 224
+hockey sull’erba: 224
+linea della porta: 224
+mazza da hockey: 224
+paraspalla: 224
+pattinare: 224
+pattino: 224
+ghiaccio: 224
+battere: 225
+battitore: 225
+campo di cricket: 225
+cricket: 225
+difendere: 225
+fuori: 225
+giocatore di cricket: 225
+lanciare: 225
+lanciatore: 225
+limite: 225
+linea: 225
+pallina da cricket: 225
+parastinchi: 225
+piolo: 225
+wicket: 225
+canestro: 226
+fuori campo: 226
+pallacanestro: 226
+linea dei tre punti: 226
+linea di tiro libero: 226
+numero: 226
+pallacanestro: 226
+passaggio: 226
+rimessa: 226
+acchiappare: 227
+bloccare: 227
+ginocchiera: 227
+marcare: 227
+pallavolo: 227
+rimbalzare: 227
+saltare: 227
+base di battuta: 228
+baseball: 228
+centrocampo: 228
+correre: 228
+giocatore di base: 228
+giro: 228
+guantone: 228
+maschera: 228
+pedana di lancio: 228
+sicuro: 228
+strike: 228
+turno di battuta: 228
+campo destro: 229
+campo esterno: 229
+fossa: 229
+giocare: 229
+inseguire: 229
+linea di fallo: 229
+pitcher: 229
+scivolare: 229
+a zero: 230
+asso: 230
+avvitamento: 230
+bordo: 230
+corda: 230
+deuce: 230
+doppio: 230
+impugnatura: 230
+linea di servizio: 230
+partita: 230
+racchetta: 230
+singolo: 230
+smorzata: 230
+tennis: 230
+tiebreak: 230
+tiro alto: 230
+vantaggio: 230
+badminton: 231
+colpi: 231
+colpo nullo!: 231
+dritto: 231
+pallonetto: 231
+ping pong: 231
+raccattapalle: 231
+racquetball: 231
+ritorno: 231
+rovescio: 231
+scarpe da tennis: 231
+servizio: 231
+squash: 231
+tennista: 231
+volano: 231
+volée: 231
+buca: 232
+buggy: 232
+bunker: 232
+campo da golf: 232
+fairway: 232
+fare lo swing: 232
+golfista /: 232
+green: 232
+posizione: 232
+rough: 232
+sede del circolo: 232
+teeing-ground: 232
+attrezzature: 233
+back-swing: 233
+buca in uno: 233
+caddy: 233
+carrellino: 233
+chiodi: 233
+colpire a distanza: 233
+colpire da vicino: 233
+colpire leggermente: 233
+colpo: 233
+cominciare la partita: 233
+handicap: 233
+linea di gioco: 233
+mazza di ferro: 233
+mazza di legno: 233
+mazza ricurva: 233
+mazze da golf: 233
+pallina da golf: 233
+overpar: 233
+par: 233
+putter: 233
+sacca da golf: 233
+scarpa da golf: 233
+spettatori: 233
+swing di pratica: 233
+tee: 233
+torneo: 233
+underpar: 233
+atletica: 234
+battere un primato: 234
+blocco di partenza: 234
+fotofinish: 234
+gara: 234
+lancio del disco: 234
+lancio del peso: 234
+linea di partenza: 234
+maratona: 234
+primato: 234
+salto con l’asta: 234
+tempo: 234
+traguardo: 234
+velocista: 234
+argento: 235
+bronzo: 235
+capriola: 235
+corsa a ostacoli: 235
+ginnasta: 235
+ginnastica: 235
+ginnastica a corpo libero: 235
+ginnastica ritmica: 235
+medaglie: 235
+oro: 235
+pedana: 235
+pedana elastica: 235
+podio: 235
+salto in alto: 235
+salto in lungo: 235
+sbarra: 235
+sbarre parallele: 235
+staffetta: 235
+trave: 235
+volteggio: 235
+aikido: 236
+avversario: 236
+judo: 236
+karate: 236
+kendo: 236
+kickboxing: 236
+kung-fu: 236
+lotta greco-romana: 236
+pugilato: 236
+sciabola: 236
+combattimento: 236
+tae kwondo: 236
+tai-chi: 236
+allenamento: 237
+arti marziali: 237
+autodifesa: 237
+caduta: 237
+capoeira: 237
+cintura nera: 237
+colpo di taglio: 237
+incontro: 237
+k.o.: 237
+mosse: 237
+paradenti: 237
+parata: 237
+proiezione: 237
+ring: 237
+round: 237
+sacco: 237
+salto: 237
+scivolata: 237
+sumo: 237
+cuffia: 238
+giravolta: 238
+molletta per il naso: 238
+nuotare: 238
+nuotatore: 238
+nuoto: 238
+occhialetti: 238
+podio di partenza: 238
+tavoletta: 238
+trampolino: 238
+tuffarsi: 238
+tuffatore: 238
+annegare: 239
+armadietti: 239
+bagnino: 239
+boccaglio: 239
+bombola: 239
+bracciata: 239
+cintura dei pesi: 239
+crampo: 239
+dorso: 239
+gambata: 239
+nuoto subacqueo: 239
+pallanuoto: 239
+parte bassa: 239
+parte profonda: 239
+pinna: 239
+rana: 239
+regolatore: 239
+stile libero: 239
+stili: 239
+tenersi a galla: 239
+tuffo alto: 239
+tuffo di rincorsa: 239
+tuta subacquea: 239
+barra: 240
+boma: 240
+galloccia: 240
+ponte laterale: 240
+poppa: 240
+razzo illuminante: 240
+salvagente: 240
+vela: 240
+vela di maestra: 240
+vela di prua: 240
+zattera di salvataggio: 240
+acquascooter: 241
+bordeggiare: 241
+canottaggio: 241
+capovolgersi: 241
+corsa in motoscafo: 241
+cresta dell’onda: 241
+equipaggio: 241
+kayak: 241
+onda: 241
+pagaia: 241
+presa per il piede: 241
+rafting: 241
+remare: 241
+rematore: 241
+remo: 241
+sci: 241
+sci d’acqua: 241
+sciatore d’acqua: 241
+scotta: 241
+sport acquatici: 241
+surf: 241
+surfing: 241
+surfista: 241
+tavola: 241
+vento: 241
+windsurfer: 241
+windsurfing: 241
+briglia: 242
+cappello da equitazione: 242
+cinghia frontale: 242
+cinghia nasale: 242
+criniera: 242
+fantino: 242
+da cavallo: 242
+frustino: 242
+equitazione: 242
+pomo: 242
+redini: 242
+sella: 242
+sella da signora: 242
+staffa: 242
+zoccolo: 242
+arena: 243
+cavallo da corsa: 243
+cavezza: 243
+concorso ippico: 243
+corsa al trotto: 243
+corsa di carrozze: 243
+corsa di cavalli: 243
+corsa in piano: 243
+corse: 243
+dressage: 243
+escursione a cavallo: 243
+galoppo: 243
+ippodromo: 243
+palafreniere: 243
+ostacolo: 243
+passo: 243
+piccolo galoppo: 243
+polo: 243
+rodeo: 243
+trotto: 243
+amo: 244
+canna da pesca: 244
+esca: 244
+lenza: 244
+mosca: 244
+rete da pesca: 244
+scatola portaesche: 244
+stivaloni di gomma: 244
+uncino: 244
+abboccare: 245
+bobina: 245
+fornire di esca: 245
+licenza di pesca: 245
+nassa: 245
+pesca dalla riva: 245
+pesca in alto mare: 245
+pesca in mare: 245
+pesca sportiva: 245
+pescare con la rete: 245
+rilasciare: 245
+sovrapantaloni: 245
+tipi di pesca: 245
+bastone da sci: 246
+funivia: 246
+giacca da sci: 246
+pista da sci: 246
+scarpone da sci: 246
+sciatrice: 246
+seggiovia: 246
+biathlon: 247
+bob: 247
+corsa su slitta: 247
+corsa da cani: 247
+curling: 247
+discesa: 247
+fuoripista: 247
+gare: 247
+motoslitta: 247
+pattinaggio su ghiaccio: 247
+sci alpino: 247
+sci di fondo: 247
+slalom: 247
+slalom gigante: 247
+slittino: 247
+snowboard: 247
+sport invernali: 247
+valanga: 247
+altri sport: 248
+bungee jumping: 248
+cordata: 248
+deltaplano: 248
+paracadute: 248
+paracadutismo: 248
+parapendio: 248
+volo a vela: 248
+volo in deltaplano: 248
+bersaglio: 249
+biliardo: 249
+bowling: 249
+faretra: 249
+fioretto: 249
+lacrosse: 249
+motociclismo: 249
+motocross: 249
+palla da bowling: 249
+pilota da corsa: 249
+rally: 249
+scherma: 249
+skateboard: 249
+snooker: 249
+tiro al bersaglio: 249
+tiro con l’arco: 249
+cross trainer: 250
+cyclette: 250
+fitness: 250
+macchina per step: 250
+manubri: 250
+panca: 250
+sauna: 250
+treadmill: 250
+vogatore: 250
+allenarsi: 251
+bilanciere: 251
+corsa sul posto: 251
+esercizi: 251
+flessioni: 251
+flettere: 251
+footing: 251
+Pilates: 251
+pressa per pettorali: 251
+riscaldarsi: 251
+saltare con la corda: 251
+scarponcini: 251
+sollevare: 251
+squat: 251
+stendere: 251
+stiramento: 251
+stretching: 251
+attrice: 254
+balconata: 254
+cast: 254
+copione: 254
+fondale: 254
+galleria: 254
+golfo mistico: 254
+opera teatrale: 254
+palco: 254
+palcoscenico: 254
+orchestra: 254
+poltrone: 254
+poltrone di platea: 254
+prima: 254
+produttore: 254
+quinte: 254
+regista: 254
+scenografia: 254
+seconda galleria: 254
+sipario: 254
+teatro: 254
+tempo libero: 254
+animazione: 255
+applaudire: 255
+avventura: 255
+balletto: 255
+bis: 255
+cinema: 255
+colonna sonora: 255
+commedia: 255
+concerto: 255
+costume: 255
+film d’amore: 255
+film di orrore: 255
+musica classica: 255
+musical: 255
+opera: 255
+partitura musicale: 255
+popcorn: 255
+poster: 255
+thriller: 255
+western: 255
+annotazione: 256
+arpa: 256
+bacchetta: 256
+battuta: 256
+bemolle: 256
+chiave di basso: 256
+chiave di sol: 256
+contrabbasso: 256
+corde: 256
+diesis: 256
+nota: 256
+ottoni: 256
+ouverture: 256
+pausa: 256
+pentagramma: 256
+pianoforte: 256
+sinfonia: 256
+sonata: 256
+spartito: 256
+strumenti: 256
+tono: 256
+viola: 256
+violino: 256
+violoncello: 256
+bongo: 257
+cembali: 257
+clarinetto: 257
+clarinetto basso: 257
+controfagotto: 257
+corno: 257
+corno inglese: 257
+fagotto: 257
+flauto: 257
+gong: 257
+maracas: 257
+oboe: 257
+pedali: 257
+percussione: 257
+piffero: 257
+sassofono: 257
+strumenti a fiato: 257
+tamburino: 257
+tamburo militare: 257
+timpano: 257
+tromba: 257
+trombone: 257
+tuba: 257
+vibrafono: 257
+batterista: 258
+chitarra elettrica: 258
+chitarrista: 258
+concerto rock: 258
+fans: 258
+blues: 259
+canzone: 259
+country: 259
+heavy metal: 259
+jazz: 259
+melodia: 259
+musica da ballo: 259
+musica folk: 259
+pop: 259
+rap: 259
+reggae: 259
+ritmo: 259
+stili musicali: 259
+testo: 259
+aperto: 260
+chiuso: 260
+destra: 260
+guida: 260
+guida turistica: 260
+indicazioni: 260
+itinerario: 260
+pellicola: 260
+ricordi: 260
+scoperto: 260
+sinistra: 260
+statuina: 260
+tariffa d’ingresso: 260
+turismo: 260
+turista: 260
+videocamera: 260
+visita guidata: 260
+casinò: 261
+edificio storico: 261
+esposizione: 261
+galleria d’arte: 261
+giardini: 261
+informazione: 261
+luoghi d’interesse: 261
+mappa: 261
+monumento: 261
+museo: 261
+oggetto: 261
+orari: 261
+parco nazionale: 261
+pianta del piano: 261
+rovina famosa: 261
+attività all’aria aperta: 262
+luna park: 262
+meridiana: 262
+montagne russe: 262
+panchina: 262
+parco: 262
+parco a tema: 262
+zoo: 262
+zoosafari: 262
+altalena: 263
+cesta: 263
+ciclismo: 263
+equitazione: 263
+escursionismo: 263
+fossa di sabbia: 263
+ornitologia: 263
+parco giochi: 263
+pattinaggio: 263
+picnic: 263
+piscina gonfiabile: 263
+scivolo: 263
+arrampicarsi: 263
+bikini: 264
+mare: 264
+ombrellone: 264
+prendere il sole: 264
+spiaggia: 264
+spiaggia: 265
+castello di sabbia: 265
+ciambella: 265
+conchiglia: 265
+crema protettiva: 265
+lungomare: 265
+paravento: 265
+secchiello: 265
+sedia a sdraio: 265
+accendere un fuoco: 266
+amaca: 266
+bagni: 266
+campeggiare: 266
+campeggio: 266
+camper: 266
+carbonella: 266
+completo: 266
+corda tirante: 266
+docce: 266
+esca per il fuoco: 266
+fuoco: 266
+piantare una tenda: 266
+piazzole disponibili: 266
+posteggio: 266
+presa di corrente: 266
+rifiuti: 266
+rimorchio: 266
+roulotte: 266
+tavolo da picnic: 266
+telo protettivo: 266
+ufficio del direttore: 266
+campeggio: 267
+indumenti termici: 267
+sacco a pelo: 267
+scarpe da escursionismo: 267
+struttura: 267
+telo isolante: 267
+thermos: 267
+torcia: 267
+zanzariera: 267
+amplificatore: 268
+cuffie: 268
+giradischi: 268
+impianto stereo: 268
+iPad: 268
+iPod: 268
+lettore di cd: 268
+lettore di dvd: 268
+mangianastri: 268
+radio digitale: 268
+l’altoparlante: 268
+televisore: 268
+alta definizione (HD): 269
+audiocassetta: 269
+cambiare canale: 269
+comando: 269
+compact disc: 269
+console: 269
+decoder: 269
+disco DVD: 269
+lungometraggio: 269
+play: 269
+pubblicit�: 269
+registrazione: 269
+riavvolgimento: 269
+sintonizzare la radio: 269
+stereo: 269
+stop: 269
+streaming: 269
+telecomando: 269
+televisione via cavo: 269
+torte per celebrazioni: 269
+videocassetta: 269
+videogioco: 269
+Wifi: 269
+copriobiettivo: 270
+esposimetro: 270
+filtro: 270
+flash: 270
+fotografia: 270
+digitale: 270
+istantanea: 270
+Polaroid: 270
+macchina fotografica usa e getta: 270
+regolatore di esposizione: 270
+fotografica: 270
+fotografica: 270
+zoom: 270
+album fotografico: 271
+camera oscura: 271
+difetti: 271
+fotografare: 271
+ingrandimento: 271
+mettere a fuoco: 271
+mirino: 271
+negativo: 271
+occhio rosso: 271
+orizzontale: 271
+rullino: 271
+sfocato: 271
+sottoesposto: 271
+sovraesposto: 271
+sviluppare: 271
+verticale: 271
+alfiere: 272
+dama: 272
+giochi: 272
+giochi da tavolo: 272
+monopoly: 272
+pedina: 272
+pedone: 272
+re: 272
+regina: 272
+scacchi: 272
+scacchiera: 272
+scrabble: 272
+torre: 272
+bridge: 273
+carte: 273
+colore: 273
+distribuire: 273
+domino: 273
+fante: 273
+filatelia: 273
+fiore: 273
+freccette: 273
+jolly: 273
+mazzo di carte: 273
+mossa: 273
+perdente: 273
+perdere: 273
+picca: 273
+poker: 273
+punto: 273
+puzzle: 273
+scommessa: 273
+vincere: 273
+vincitore: 273
+acquarello: 274
+arancione: 274
+arte e artigianato: 274
+artista: 274
+blu: 274
+colori acrilici: 274
+colori ad olio: 274
+giallo: 274
+grigio: 274
+indaco: 274
+marrone: 274
+pastelli: 274
+rosa: 274
+tavolozza: 274
+tela: 274
+tempera: 274
+verde: 274
+viola: 274
+blocco per schizzi: 275
+carboncino: 275
+cartapesta: 275
+cartone: 275
+ceramica: 275
+colla: 275
+collage: 275
+disegno: 275
+falegnameria: 275
+inchiostro: 275
+incisione: 275
+modellismo: 275
+oreficeria: 275
+origami: 275
+schizzo: 275
+scultura: 275
+tornio da vasaio: 275
+artigianato: 276
+cesta del cucito: 276
+ditale: 276
+guidafilo: 276
+macchina da cucire: 276
+manichino: 276
+piastrina dell’ago: 276
+puntaspilli: 276
+rocchetto del filo: 276
+spillo: 276
+stoffa: 276
+chiusura lampo: 277
+cucire: 277
+da calza: 277
+imbastire: 277
+infilare: 277
+lana: 277
+lavoro a maglia: 277
+macramè: 277
+matassa: 277
+mezzopunto: 277
+moda: 277
+nailon: 277
+patchwork: 277
+poliestere: 277
+rammendare: 277
+ricamo: 277
+sarta: 277
+scucire: 277
+seta: 277
+spoletta: 277
+stilista: 277
+tessitura: 277
+tessuto: 277
+trapunto: 277
+ambiente: 280
+asteroide: 280
+buco nero: 280
+cometa: 280
+eclisse: 280
+galassia: 280
+Giove: 280
+gravit�: 280
+luna: 280
+luna nuova: 280
+luna piena: 280
+Marte: 280
+Mercurio: 280
+meteora: 280
+mezzaluna: 280
+nebulosa: 280
+Nettuno: 280
+orbita: 280
+pianeta: 280
+Plutone: 280
+Saturno: 280
+sistema solare: 280
+sole: 280
+spazio: 280
+stella: 280
+Terra: 280
+universo: 280
+Uranio: 280
+Venere: 280
+astronauta: 281
+astronomia: 281
+binocolo: 281
+costellazione: 281
+lanciarazzi: 281
+lancio: 281
+modulo lunare: 281
+rampa di lancio: 281
+reattore: 281
+satellite: 281
+shuttle: 281
+sportello dell’equipaggio: 281
+stazione spaziale: 281
+telescopio: 281
+tuta spaziale: 281
+atmosfera: 282
+catena montuosa: 282
+continente: 282
+isola: 282
+mantello: 282
+nucleo esterno: 282
+nucleo interno: 282
+oceano: 282
+penisola: 282
+poli: 282
+spaccato: 282
+terra: 282
+terraferma: 282
+camera: 283
+cenere: 283
+cratere: 283
+equatore: 283
+eruttare: 283
+fessura: 283
+latitudine: 283
+lava: 283
+longitudine: 283
+magma: 283
+Polo Nord: 283
+terremoto: 283
+tremore: 283
+tropici: 283
+vulcano: 283
+zolla: 283
+zone: 283
+altipiano: 284
+caverna: 284
+collina: 284
+fiume: 284
+ghiacciaio: 284
+montagna: 284
+paesaggio: 284
+pendice: 284
+rapide: 284
+riva: 284
+rocce: 284
+valle: 284
+barriera corallina: 285
+bosco: 285
+cascata: 285
+costa: 285
+deserto: 285
+estuario: 285
+foresta: 285
+foresta pluviale: 285
+geyser: 285
+lago: 285
+palude: 285
+pianura: 285
+prateria: 285
+scogliera: 285
+torrente: 285
+aurora: 286
+bufera: 286
+caldo: 286
+esosfera: 286
+freddo: 286
+grandine: 286
+ionosfera: 286
+luce del sole: 286
+mesosfera: 286
+nevischio: 286
+nuvoloso: 286
+piovoso: 286
+raggi ultravioletti: 286
+soleggiato: 286
+strato di ozono: 286
+stratosfera: 286
+temperatura: 286
+termosfera: 286
+tiepido: 286
+troposfera: 286
+tuono: 286
+ventoso: 286
+arcobaleno: 287
+foschia: 287
+fulmine: 287
+gelata: 287
+gelo: 287
+ghiacciolo: 287
+inondazione: 287
+monsone: 287
+nebbia: 287
+neve: 287
+nuvola: 287
+pioggia: 287
+tempesta: 287
+tornado: 287
+uragano: 287
+acquamarina: 288
+ametista: 288
+ardesia: 288
+arenaria: 288
+basalto: 288
+carbone: 288
+conglomerato: 288
+diamante: 288
+gemme: 288
+giada: 288
+giaietto: 288
+gneiss: 288
+granato: 288
+granito: 288
+igneo: 288
+lunaria: 288
+malachite: 288
+marmo: 288
+metamorfico: 288
+opale: 288
+ossidiana: 288
+rubino: 288
+scisto: 288
+sedimentario: 288
+selce: 288
+smeraldo: 288
+topazio: 288
+tormalina: 288
+zaffiro: 288
+agata: 289
+alluminio: 289
+calcite: 289
+ematite: 289
+grafite: 289
+mercurio: 289
+metalli: 289
+mica: 289
+minerali: 289
+nichel: 289
+onice: 289
+platino: 289
+quarzo: 289
+rame: 289
+stagno: 289
+turchese: 289
+zinco: 289
+zolfo: 289
+baffi: 290
+balena: 290
+cane: 290
+criceto: 290
+cucciolo: 290
+delfino: 290
+foca: 290
+gattino: 290
+gatto: 290
+leone marino: 290
+lontra: 290
+lupo: 290
+mammiferi: 290
+pipistrello: 290
+procione: 290
+ratto: 290
+riccio: 290
+scoiattolo: 290
+sfiatatoio: 290
+topo: 290
+tricheco: 290
+volpe: 290
+artiglio: 291
+cammello: 291
+canguro: 291
+corna: 291
+elefante: 291
+gobba: 291
+gorilla: 291
+ippopotamo: 291
+koala: 291
+leone: 291
+orso: 291
+orso polare: 291
+panda: 291
+proboscide: 291
+rinoceronte: 291
+scimmia: 291
+tigre: 291
+zanna: 291
+zebra: 291
+animale: 292
+animali: 292
+aquila: 292
+canarino: 292
+cicogna: 292
+colibrì: 292
+cornacchia: 292
+falco: 292
+fenicottero: 292
+gabbiano: 292
+gufo: 292
+passero: 292
+pellicano: 292
+picchio: 292
+piccione: 292
+pinguino: 292
+rondine: 292
+struzzo: 292
+uccelli: 292
+alligatore: 293
+cacatoa: 293
+cigno: 293
+coccodrillo: 293
+iguana: 293
+lucertola: 293
+pappagallo: 293
+pavone: 293
+piuma: 293
+rettili: 293
+serpente: 293
+tartaruga: 293
+testuggine: 293
+anfibi: 294
+anguilla: 294
+branchia: 294
+carpa koi: 294
+girino: 294
+pesce rosso: 294
+pesci: 294
+pinna dorsale: 294
+pinna pettorale: 294
+rospo: 294
+salamandra: 294
+scaglia: 294
+squalo: 294
+trigone: 294
+antenna: 295
+ape: 295
+blatta: 295
+bozzolo: 295
+bruco: 295
+cavalletta: 295
+chiocciola: 295
+coccinella: 295
+falena: 295
+formica: 295
+grillo: 295
+invertebrato: 295
+libellula: 295
+lumaca: 295
+mantide religiosa: 295
+medusa: 295
+millepiedi: 295
+piovra: 295
+pungiglione: 295
+ragno: 295
+scarafaggio: 295
+scorpione: 295
+stella di mare: 295
+termite: 295
+verme: 295
+vespa: 295
+zanzara: 295
+acero: 296
+agrifoglio: 296
+bacca: 296
+betulla: 296
+cedro: 296
+corteccia: 296
+eucalipto: 296
+faggio: 296
+larice: 296
+olmo: 296
+pino: 296
+pioppo: 296
+quercia: 296
+ramo: 296
+ramoscello: 296
+salice: 296
+tiglio: 296
+tronco: 296
+calice: 297
+caprifoglio: 297
+cardo: 297
+digitale: 297
+erica: 297
+gambo: 297
+giacinti di bosco: 297
+lupino: 297
+ortica: 297
+papavero: 297
+petalo: 297
+pianta da fiore: 297
+primula: 297
+ranuncolo: 297
+stame: 297
+trifoglio: 297
+chiesa: 298
+citt�: 298
+colonnina: 298
+crocevia: 298
+marciapiede: 298
+negozio: 298
+parcheggio: 298
+stradale: 298
+strada: 298
+vicolo: 298
+canale di scolo: 299
+cunetta: 299
+edifici: 299
+fabbrica: 299
+grattacielo: 299
+municipio: 299
+periferia: 299
+piazza: 299
+tombino: 299
+via laterale: 299
+viale: 299
+villaggio: 299
+zona industriale: 299
+zona pedonale: 299
+architettura: 300
+castello: 300
+cattedrale: 300
+colonna: 300
+cornicione: 300
+cupola: 300
+diga: 300
+fossato: 300
+frontone: 300
+moschea: 300
+pinnacolo: 300
+sinagoga: 300
+spira: 300
+tempio: 300
+torretta: 300
+volta: 300
+art déco: 301
+art nouveau: 301
+barocco: 301
+contrafforte: 301
+coro: 301
+fregio: 301
+gotico: 301
+neoclassico: 301
+rinascimentale: 301
+rococò: 301
+adesso: 304
+imbrunire: 304
+lancetta dei minuti: 304
+lancetta delle ore: 304
+minuto: 304
+ora: 304
+orologio: 304
+più tardi: 304
+quaranta minuti: 304
+secondo: 304
+un quarto d’ora: 304
+una mezzora: 304
+venti minuti: 304
+alba: 305
+iin orario: 305
+mattino: 305
+mezzanotte: 305
+mezzogiorno: 305
+notte: 305
+pomeriggio: 305
+presto: 305
+sera: 305
+sorgere del sole: 305
+tardi: 305
+tramonto: 305
+anno: 306
+aprile: 306
+calendario: 306
+data: 306
+dicembre: 306
+domani: 306
+domenica: 306
+febbraio: 306
+fine settimana: 306
+gennaio: 306
+giorno: 306
+giorno feriale: 306
+giovedì: 306
+giugno: 306
+ieri: 306
+luglio: 306
+lunedì: 306
+maggio: 306
+martedì: 306
+marzo: 306
+mercoledì: 306
+mese: 306
+novembre: 306
+oggi: 306
+ottobre: 306
+sabato: 306
+settembre: 306
+settimana: 306
+settimana prossima: 306
+stagioni: 306
+venerdì: 306
+altroieri: 307
+annuo: 307
+decade: 307
+dopodomani: 307
+duemila: 307
+duemilauno: 307
+mensile: 307
+millennio: 307
+millenovecento: 307
+millenovecentodieci: 307
+primavera: 307
+questa settimana: 307
+quindici giorni: 307
+secolo: 307
+settimana scorsa: 307
+settimanale: 307
+cento: 308
+centodieci: 308
+centomila: 308
+cinquanta: 308
+cinque: 308
+cinquecento: 308
+diciannove: 308
+diciassette: 308
+diciotto: 308
+dieci: 308
+dodici: 308
+due: 308
+duecento: 308
+novanta: 308
+nove: 308
+novecento: 308
+numeri: 308
+ottanta: 308
+otto: 308
+ottocento: 308
+quaranta: 308
+quattordici: 308
+quattro: 308
+quattrocento: 308
+quindici: 308
+sedici: 308
+sei: 308
+seicento: 308
+sessanta: 308
+settanta: 308
+sette: 308
+settecento: 308
+undici: 308
+tre: 308
+trecento: 308
+tredici: 308
+trenta: 308
+uno: 308
+venti: 308
+ventidue: 308
+ventuno: 308
+zero: 308
+centesimo: 309
+cinquecento: 309
+cinquantamila: 309
+cinquantesimo: 309
+decimo: 309
+diciannovesimo: 309
+diciassettesimo: 309
+diciottesimo: 309
+diecimila: 309
+dodicesimo: 309
+miliardo: 309
+milione: 309
+mille: 309
+nono: 309
+novantesimo: 309
+ottantesimo: 309
+ottavo: 309
+primo: 309
+quarantesimo: 309
+quarto: 309
+quattordicesimo: 309
+quindicesimo: 309
+quinto: 309
+secondo: 309
+sedicesimo: 309
+sessantesimo: 309
+sesto: 309
+settantesimo: 309
+settimo: 309
+terzo: 309
+undicesimo: 309
+tredicesimo: 309
+trentesimo: 309
+ventesimo: 309
+ventiduesimo: 309
+ventimila: 309
+ventitreesimo: 309
+ventunesimo: 309
+centimetro: 310
+chilogrammo: 310
+chilometro: 310
+distanza: 310
+grammo: 310
+iarda: 310
+libbra: 310
+metro quadro: 310
+milligrammo: 310
+millimetro: 310
+misurare: 310
+oncia: 310
+pesare: 310
+piede quadro: 310
+tonnellata: 310
+bomboletta spray: 311
+brocca graduata: 311
+capacit�: 311
+contenitore: 311
+gallone: 311
+litro: 311
+mezzo litro: 311
+millilitro: 311
+misura di liquido: 311
+nebulizzatore: 311
+pacchetto: 311
+pinta: 311
+quarto di gallone: 311
+rotolo: 311
+sacchetto: 311
+saponetta: 311
+scatoletta: 311
+tubetto: 311
+Amazzonia: 312
+Ande: 312
+est: 312
+mappamondo: 312
+Mar dei Caraibi: 312
+Mare del Nord: 312
+nord: 312
+Oceano Artico: 312
+Oceano Atlantico: 312
+Oceano Indiano: 312
+Oceano Pacifico: 312
+ovest: 312
+sud: 312
+Himalaia: 313
+Mar Baltico: 313
+Mar Caspio: 313
+Mar Mediterraneo: 313
+Mar Nero: 313
+Mar Rosso: 313
+Mare Arabico: 313
+Oceano Antartico: 313
+Sahara: 313
+Siberia: 313
+Alaska: 314
+America Centrale: 314
+America del Nord: 314
+Antigua e Barbuda: 314
+Bahamas: 314
+Barbados: 314
+Belize: 314
+Canada: 314
+Costa Rica: 314
+Cuba: 314
+Dominica: 314
+El Salvador: 314
+Giamaica: 314
+Grenada: 314
+Groenlandia: 314
+Guatemala: 314
+Haiti: 314
+Hawaii: 314
+Honduras: 314
+Messico: 314
+Nicaragua: 314
+Panama: 314
+Puerto Rico: 314
+Saint Kitts-Nevis: 314
+Saint Lucia: 314
+Grenadine: 314
+Stati Uniti d’America: 314
+Trinidad e Tobago: 314
+America del Sud: 315
+Argentina: 315
+Bolivia: 315
+Brasile: 315
+capitale: 315
+Cile: 315
+Colombia: 315
+colonia: 315
+distretto: 315
+Ecuador: 315
+Guyana: 315
+Guyana Francese: 315
+Isole Falkland: 315
+Isole Galapagos: 315
+nazione: 315
+paese: 315
+Paraguay: 315
+Perù: 315
+principato: 315
+provincia: 315
+regione: 315
+stato: 315
+Suriname: 315
+territorio: 315
+Uruguay: 315
+Venezuela: 315
+zona: 315
+Albania: 316
+Andorra: 316
+Austria: 316
+Belgio: 316
+Bielorussia: 316
+Bulgaria: 316
+Città del Vaticano: 316
+Corsica: 316
+Croazia: 316
+Danimarca: 316
+Estonia: 316
+Europa: 316
+Finlandia: 316
+Francia: 316
+Germania: 316
+Grecia: 316
+Irlanda: 316
+Islanda: 316
+Isole Baleari: 316
+Italia: 316
+Jugoslavia: 316
+Kaliningrad: 316
+Kosovo: 316
+Lettonia: 316
+Liechtenstein: 316
+Lituania: 316
+Lussemburgo: 316
+Macedonia: 316
+Malta: 316
+Moldavia: 316
+Monaco: 316
+Montenegro: 316
+Norvegia: 316
+Paesi Bassi: 316
+Polonia: 316
+Portogallo: 316
+Regno Unito: 316
+Repubblica Ceca: 316
+Romania: 316
+San Marino: 316
+Sardegna: 316
+Serbia: 316
+Sicilia: 316
+Slovacchia: 316
+Slovenia: 316
+Spagna: 316
+Svezia: 316
+Svizzera: 316
+Ucraina: 316
+Ungheria: 316
+Africa: 317
+Algeria: 317
+Angola: 317
+Benin: 317
+Botswana: 317
+Burkina Faso: 317
+Burundi: 317
+Cabinda: 317
+Camerun: 317
+Ciad: 317
+Comore: 317
+Congo: 317
+Costa d’Avorio: 317
+Egitto: 317
+Eritrea: 317
+Etiopia: 317
+Gabon: 317
+Gambia: 317
+Ghana: 317
+Gibuti: 317
+Guinea: 317
+Guinea Bissau: 317
+Guinea Equatoriale: 317
+Kenya: 317
+Lesotho: 317
+Liberia: 317
+Libia: 317
+Madagascar: 317
+Malawi: 317
+Mali: 317
+Marocco: 317
+Mauritius: 317
+Mozambico: 317
+Namibia: 317
+Niger: 317
+Nigeria: 317
+Centrafricana: 317
+del Congo: 317
+Ruanda: 317
+Sahara Occidentale: 317
+Senegal: 317
+Sierra Leone: 317
+Somalia: 317
+Sud Africa: 317
+Sudan: 317
+Sudan del Sud: 317
+Swaziland: 317
+Tanzania: 317
+Togo: 317
+Uganda: 317
+Tunisia: 317
+Zambia: 317
+Zimbabwe: 317
+Afghanistan: 318
+Arabia Saudita: 318
+Armenia: 318
+Asia: 318
+Azerbaigian: 318
+Bahrain: 318
+Bangladesh: 318
+Bhutan: 318
+Birmania: 318
+Cambogia: 318
+Cina: 318
+Cipro: 318
+Corea del Nord: 318
+Corea del Sud: 318
+Emirati Arabi Uniti: 318
+Federazione Russa: 318
+Georgia: 318
+Giappone: 318
+Giordania: 318
+India: 318
+Iran: 318
+Iraq: 318
+Israele: 318
+Kazakistan: 318
+Kirghizistan: 318
+Kuwait: 318
+Laos: 318
+Libano: 318
+Malaysia: 318
+Maldive: 318
+Mongolia: 318
+Myanmar: 318
+Nepal: 318
+Oman: 318
+Pakistan: 318
+Qatar: 318
+Siria: 318
+Sri Lanka: 318
+Tagikistan: 318
+Tailandia: 318
+Turchia: 318
+Turkmenistan: 318
+Uzbekistan: 318
+Vietnam: 318
+Yemen: 318
+Australia: 319
+Brunei: 319
+Figi: 319
+Filippine: 319
+Indonesia: 319
+Isole Salomone: 319
+Nuova Zelanda: 319
+Oceania: 319
+Singapore: 319
+Tasmania: 319
+Timor Est: 319
+Vanuatu: 319
+a: 320
+accanto: 320
+all’esterno: 320
+all’interno: 320
+attorno: 320
+attraverso: 320
+con: 320
+da: 320
+davanti: 320
+dentro: 320
+di fronte: 320
+dietro: 320
+dopo: 320
+entro: 320
+fino: 320
+giù: 320
+in cima: 320
+lontano: 320
+oltre: 320
+per: 320
+prima: 320
+senza: 320
+sopra: 320
+sotto: 320
+su: 320
+tra: 320
+verso: 320
+vicino: 320
+asciutto: 321
+bagnato: 321
+basso: 321
+buono: 321
+cattivo: 321
+debole: 321
+difficile: 321
+facile: 321
+fine: 321
+forte: 321
+giusto: 321
+grande: 321
+inizio: 321
+largo: 321
+leggero: 321
+lento: 321
+libero: 321
+magro: 321
+nuovo: 321
+pesante: 321
+piccolo: 321
+pieno: 321
+sbagliato: 321
+sottile: 321
+spesso: 321
+stretto: 321
+vecchio: 321
+veloce: 321
+vuoto: 321
+arrivederci: 322
+buongiorno: 322
+d’accordo: 322
+forse: 322
+grazie: 322
+no: 322
+per favore: 322
+permesso: 322
+prego: 322
+sì: 322
+italiano • english: 329
+italiano • english: 335
+italiano • english: 337
+ostacolo d’acqua: 392
