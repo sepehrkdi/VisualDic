@@ -1,16 +1,20 @@
 import requests
 import json
 from tqdm import tqdm
+import json
 
 # Function to query Ollama API
 def query_ollama(word):
-    api_url = "http://localhost:11434/api/chat"  # Replace with your local Ollama API endpoint if different
+    # Step 1: Load the configuration file
+    with open("config.json", "r") as config_file:
+        config = json.load(config_file)
+
+    # Step 2: Access data from the configuration
+    api_url = config["api_url"]
     prompt = f"Provide a one-line very short, concise English description for the Italian word '{word}'. Focus on meaning or common usage."
-    headers = {"Content-Type": "application/json"}
-    payload = {
-        "model": "llama3.2",  # Replace with your model name if required
-        "messages": [{"role": "user", "content": prompt}]
-    }
+    headers = config["headers"]
+    payload = config["payload_defaults"]
+
 
     try:
         # Stream response

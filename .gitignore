@@ -3,4 +3,5 @@ anki_deck_with_images.csv
 sorted_words.txt
 word_descriptions1.txt
 words.txt
-venv
+venv/
+config.json
