@@ -27,6 +27,7 @@ source venv/bin/activate
 if [ -f "requirements.txt" ]; then
     echo "Installing dependencies from requirements.txt..."
     pip install -r requirements.txt
+    curl -L -o  subtlex-it.csv  https://osf.io/download/wtr39/
 else
     echo "requirements.txt file not found. Please ensure it is in the same directory as this script."
     deactivate

@@ -8,10 +8,11 @@ UNSORTED_FILE_PATH="words.txt"
 SORTED_FILE_PATH="sorted_words.txt"
 OLLAMA_OUTPUT="word_descriptions.txt"
 ANKI_OUTPUT="anki_deck_with_images.csv"
+SUBTLEX_FILE_PATH="subtlex-it.csv"
 
-python3 pdfToImage.py.py "$PDF_PATH" "$OUTPUT_FOLDER"
-python3 sort.py "$UNSORTED_FILE_PATH" "$SORTED_FILE_PATH"
-python3 ollama.py "$SORTED_FILE_PATH" "$OLLAMA_OUTPUT"
-python3 anki.py "$OUTPUT_FOLDER" "$OLLAMA_OUTPUT" "$ANKI_OUTPUT"
+python3 pdfToImage.py "$PDF_PATH" "$OUTPUT_FOLDER"
+python3 ollama.py "$UNSORTED_FILE_PATH" "$OLLAMA_OUTPUT"
+python3 sort.py "$OLLAMA_OUTPUT" "$SORTED_FILE_PATH" "$SUBTLEX_FILE_PATH"
+python3 anki.py "$OUTPUT_FOLDER" "$SORTED_FILE_PATH" "$ANKI_OUTPUT"
 
 deactivate
