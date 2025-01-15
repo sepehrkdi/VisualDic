@@ -1,3 +1,33 @@
+# What is this repo? Italian Flashcards for Anki!
+
+This project creates flashcards for Italian learners using a visual dictionary and Ollama, designed for import into Anki. The workflow includes:
+
+    PDF Conversion: Converts the visual dictionary (PDF not included due to copyright) into images.
+    Word Descriptions: Uses Ollama to generate English meanings and descriptions for each word.
+    Frequency Sorting: Sorts words by frequency using Subtlex-IT, prioritizing the most common ones.
+
+Each flashcard includes the word, an image, and a description, helping you focus on the most frequent and useful vocabulary first.
+---
+## Importing CSV and Images into Anki
+
+To successfully import the flashcards into Anki:
+
+    Generate Images:
+        The images are created during the PDF-to-picture conversion in the code (each page becomes one picture).
+        Ensure all images are stored in a folder named output_images.
+
+    Place Images in Anki Media Folder:
+        Move the output_images folder to Anki's media directory:
+            On Android: Place the folder inside Android/data/com.anki/collection.media.
+            On Other Platforms: Locate the collection.media folder in your Anki profile directory and copy the images there.
+
+    Import the CSV File:
+        Use the Import option in Anki to import the provided CSV file.
+        Ensure the CSV file references the images correctly using their filenames (e.g., output_images/image1.png).
+
+    Verify Flashcards:
+        After importing, review a few cards in Anki to confirm that the images and descriptions are properly linked.
+---
 # How to Build and Use a Configuration File for This Project
 ## Step 1: Create the Configuration File
 
