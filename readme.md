@@ -7,7 +7,9 @@ This project creates flashcards for Italian learners using a visual dictionary a
     Frequency Sorting: Sorts words by frequency using Subtlex-IT, prioritizing the most common ones.
 
 Each flashcard includes the word, an image, and a description, helping you focus on the most frequent and useful vocabulary first.
+
 ---
+
 ## Importing CSV and Images into Anki
 
 To successfully import the flashcards into Anki:
@@ -27,7 +29,9 @@ To successfully import the flashcards into Anki:
 
     Verify Flashcards:
         After importing, review a few cards in Anki to confirm that the images and descriptions are properly linked.
+        
 ---
+
 # How to Build and Use a Configuration File for This Project
 ## Step 1: Create the Configuration File
 
@@ -47,7 +51,9 @@ Example File:
 }
 
 ```
+
 ---
+
 ## Step 2: Understanding the Format
 
     JSON Format:
