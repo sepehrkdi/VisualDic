@@ -1,0 +1,50 @@
+a: 320
+a chicco corto: 130
+a chicco lungo: 130
+a due porte: 200
+a foglie caduche: 86
+a la carte: 152
+a quattro porte: 200
+a schiera: 58
+a tre porte: 200
+a zero: 230
+abat-jour: 70
+abbaino: 58
+abbigliamento: 205
+donna: 105
+abboccare: 245
+abbronzatura: 41
+abiti per il bambino: 30
+abito: 32
+abito da sera: 34
+abito da sposa: 35
+aborto spontaneo: 52
+acacia: 110
+accanto: 320
+accappatoio: 73
+acceleratore: 200
+accendere un fuoco: 266
+accendino: 112
+accensione: 200
+rotelle: 197
+accessori: 36
+acchiappare: 227
+acciaio inossidabile: 79
+acconciature: 39
+accordo di affari: 175
+elettronica: 177
+accusa: 94
+accusato: 180
+acerbo: 129
+acero: 296
+aceto: 135
+aceto balsamico: 135
+aceto di malto: 135
+aceto di sidro: 135
+aceto di vino: 135
+acetone: 41
+acetosa: 123
+acqua: 144
+acqua dal rubinetto: 14
+acqua di colonia: 4
+acqua in bottiglia: 144
