@@ -1,16 +1,22 @@
 import requests
 import json
 from tqdm import tqdm
+import sys
 
 # Function to query Ollama API
 def query_ollama(word):
-    api_url = "http://localhost:11434/api/chat"  # Replace with your local Ollama API endpoint if different
+    # Step 1: Load the configuration file
+    with open("config.json", "r") as config_file:
+        config = json.load(config_file)
+
+    # Step 2: Access data from the configuration
+    api_url = config["api_url"]
     prompt = f"Provide a one-line very short, concise English description for the Italian word '{word}'. Focus on meaning or common usage."
-    headers = {"Content-Type": "application/json"}
-    payload = {
-        "model": "llama3.2",  # Replace with your model name if required
-        "messages": [{"role": "user", "content": prompt}]
-    }
+    headers = config["headers"]
+    payload = config["payload_defaults"]
+
+    # Add the prompt to the payload
+    payload["prompt"] = prompt
 
     try:
         # Stream response
@@ -34,32 +40,40 @@ def query_ollama(word):
         print(f"HTTP error querying Ollama for '{word}': {e}")
     return None
 
-# Read the words file
-words_file = "sorted_words.txt"
-output_file = "word_descriptions.txt"
+# Main function
+def main():
+    if len(sys.argv) < 3:
+        print("Usage: python script.py <words_file> <output_file>")
+        sys.exit(1)
 
-descriptions = []
-try:
-    with open(words_file, "r", encoding="utf-8") as file:
-        lines = file.readlines()
-        
-        # Use tqdm to wrap the loop
-        for line in tqdm(lines, desc="Processing words"):
-            word, page_number = line.rsplit(":", 1)  # Split into word and page number
-            word = word.strip()
-            page_number = page_number.strip()
-            description = query_ollama(word)
-            if description:
-                # Format: word: description: page_number
-                descriptions.append(f"{word} @@@ {description} @@@ {page_number}")
+    words_file = sys.argv[1]
+    output_file = sys.argv[2]
 
-    # Write the descriptions to a file
-    with open(output_file, "w", encoding="utf-8") as out_file:
-        for desc in descriptions:
-            out_file.write(desc + "\n")
+    result = []
+    try:
+        with open(words_file, "r", encoding="utf-8") as file:
+            lines = file.readlines()
 
-    print(f"Descriptions saved to {output_file}.")
-except FileNotFoundError:
-    print(f"File '{words_file}' not found.")
-except Exception as e:
-    print(f"An error occurred: {e}")
+            # Use tqdm to wrap the loop
+            for line in tqdm(lines, desc="Processing words"):
+                word, page_number = line.rsplit(":", 1)  # Split into word and page number
+                word = word.strip()
+                page_number = page_number.strip()
+                description = query_ollama(word)
+                if description:
+                    # Format: word: description: page_number
+                    result.append(f"{word} @@@ {description} @@@ {page_number}")
+
+        # Write the result to a file
+        with open(output_file, "w", encoding="utf-8") as out_file:
+            for desc in result:
+                out_file.write(desc + "\n")
+
+        print(f"Result saved to {output_file}.")
+    except FileNotFoundError:
+        print(f"File '{words_file}' not found.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+if __name__ == "__main__":
+    main()

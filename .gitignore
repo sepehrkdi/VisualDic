@@ -2,4 +2,8 @@
 anki_deck_with_images.csv
 sorted_words.txt
 word_descriptions1.txt
-words.txt
+venv/
+config.json
+subtlex-it.csv
+output_images/
+italian_english_bilingual_visual_dic.pdf
