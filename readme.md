@@ -20,7 +20,7 @@ To successfully import the flashcards into Anki:
 
 2. Place Images in Anki Media Folder:
    Move the output_images folder to Anki's media directory:
-   On Android: Place the folder inside Android/data/com.anki/collection.media.
+   On Android: Place the folder inside /Internal shared storage/Android/data/com.ichi2.anki/files/AnkiDroid/collection.media.
    On Other Platforms: Locate the collection.media folder in your Anki profile directory and copy the images there.
 
 3. Import the CSV File:
