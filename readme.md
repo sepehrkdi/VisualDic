@@ -6,7 +6,7 @@ This project creates flashcards for Italian learners using a visual dictionary a
 2. Word Descriptions: Uses Ollama to generate English meanings and descriptions for each word.
 3. Frequency Sorting: Sorts words by frequency using Subtlex-IT, prioritizing the most common ones.
 
-Each flashcard includes the word, an image, and a description, helping you focus on the most frequent and useful vocabulary first.
+Each flashcard includes the word, an image, and a description, helping you focus on the most frequent vocabulary first.
 
 ---
 
